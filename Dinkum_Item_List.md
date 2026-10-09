@@ -3,6 +3,10 @@
 | Entry |
 |--|
 | [Base Game Items](#base-game-items)                  |
+| [October 7, 2022 Update](#october-7-2022-update)     |
+| [December 8, 2022 Update](#december-8-2022-update)   |
+| [March 23, 2023 Update](#march-24-2023-update)       |
+| [October 18, 2024 Update](#october-18-2024-update)   |
 | [June 26, 2025 Update](#june-26-2025-update)         |
 | [October 29, 2025 Update](#october-29-2025-update)   |
 | [April 23, 2026 Update](#april-23-2026-update)       |
@@ -12,7 +16,7 @@
 # Base Game Items 
 
 | Item Id | Item Description |
-|--|--|
+|------|-----------|
 |    0 | Basic Axe |
 |    1 | Megaphone |
 |    2 | Bug Net |
@@ -531,6 +535,11 @@
 |  515 | Orange Flanney Dress |
 |  516 | Red Flanney Dress |
 |  517 | Guitar |
+
+# October 7, 2022 Update
+
+| Item Id | Item Description |
+|--|--|
 |  518 | Guest House Deed |
 |  519 | Guest House Deed |
 |  520 | Guest House Deed |
@@ -1018,6 +1027,11 @@
 | 1002 | Mushroom Path |
 | 1003 | Pearl Path |
 | 1004 | Melon Scarecrow |
+
+# December 8, 2022 Update
+
+| Item Id | Item Description |
+|--|--|
 | 1005 | Elf Ears |
 | 1006 | Elf Hat |
 | 1007 | Elf Pants |
@@ -1108,6 +1122,11 @@
 | 1092 | Wheelbarrow Flower Bed |
 | 1093 | Ruby Shard |
 | 1094 | Emerald Shard |
+
+# March 24, 2023 Update
+
+| Item Id | Item Description |
+|--|--|
 | 1095 | Waterbed |
 | 1096 | Bottle of Clouds |
 | 1097 | Large Cement Fountain |
@@ -1337,6 +1356,11 @@
 | 1321 | Cherry Box |
 | 1322 | Seaweed Soup Plate |
 | 1323 | Paper Bag Hat |
+
+# November 17, 2023 Update
+
+| Item Id | Item Description |
+|--|--|
 | 1324 | Airport Deed |
 | 1325 | Gum Wood Entrance Sign |
 | 1326 | Palm Wood Entrance Sign |
@@ -1699,6 +1723,11 @@
 | 1683 | Old Gizmo |
 | 1684 | Smooth Cement Path |
 | 1685 | Honeycomb |
+
+# May 15, 2024
+
+| Item Id | Item Description |
+|--|--|
 | 1686 | Wish Fountain Deed |
 | 1687 | Tin Flower Bed |
 | 1688 | Pin Wheel |
@@ -1778,6 +1807,11 @@
 | 1762 | Key Cutter |
 | 1763 | Swag Pack |
 | 1764 | Flame Spear |
+
+# October 18, 2024 Update
+
+| Item Id | Item Description |
+|--|--|
 | 1765 | Hard Wood Tool Rack |
 | 1766 | Gum Wood Tool Rack |
 | 1767 | Palm Wood Tool Rack |
@@ -1895,6 +1929,11 @@
 | 1879 | Pop Cassette |
 | 1880 | Rock Cassette |
 | 1881 | Blues Cassette |
+
+# April 23, 2025 Update
+
+| Item Id | Item Description |
+|--|--|
 | 1882 | Town Bell |
 | 1883 | Animal Brush |
 | 1884 | Plane |
@@ -1974,7 +2013,6 @@
 | 1958 | Macquarie Perch |
 | 1959 | Spotted Handfish |
 | 1960 | Lungfish |
-
 
 # June 26, 2025 Update
 
