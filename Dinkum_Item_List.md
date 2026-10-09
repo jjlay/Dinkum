@@ -1,4 +1,4 @@
-# Base Game Items |
+# Base Game Items 
 
 | Item Id | Item Description |
 |--|--|
@@ -2028,6 +2028,11 @@
 | 2023 | Pineapple Jam |
 | 2024 | Pineapple Jam Set |
 | 2025 | Critter Book |
+
+# April 23, 2026 Update
+
+| Item Id | Item Description |
+|--|--|
 | 2026 | Matching Steps |
 | 2027 | Servo |
 | 2028 | Penguin Plush |
@@ -2138,8 +2143,8 @@
 | 2133 | Alpha Battle Fish |
 | 2134 | Camera Pack |
 | 2135 | Medkit |
-|
-# October 8, 2026 Update |
+
+# October 8, 2026 Update 
 
 | Item Id | Item Description |
 |--|--|
