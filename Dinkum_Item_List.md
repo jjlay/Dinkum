@@ -2139,41 +2139,43 @@ ID: 2135, Name: Medkit
 
 # October 8, 2026 Update
 
-ID: 2136, Name: Ghoul Drop{s}
-ID: 2137, Name: Jack o'Lantern
-ID: 2138, Name: Cauldron
-ID: 2139, Name: Spooky Seed
-ID: 2140, Name: Flying Broomstick
-ID: 2141, Name: Spooky Path
-ID: 2142, Name: Spooky Scarecrow
-ID: 2143, Name: Pet Bat
-ID: 2144, Name: Spooky Bed
-ID: 2145, Name: Spooky Jackaroo
-ID: 2146, Name: Spooky Lamp
-ID: 2147, Name: Spooky Ghost
-ID: 2148, Name: Jack o'lantern Stack
-ID: 2149, Name: Spooky Cabinet
-ID: 2150, Name: Spooky Fence
-ID: 2151, Name: Spooky Sign
-ID: 2152, Name: Bat Cage
-ID: 2153, Name: Spooky Pergola
-ID: 2154, Name: Spooky Yobbolin
-ID: 2155, Name: Spooky Boombox
-ID: 2156, Name: Fog Machine
-ID: 2157, Name: Vampire Cape
-ID: 2158, Name: Ghoul Drop Lantern
-ID: 2159, Name: Spooky Pack
-ID: 2160, Name: Vampire Coat
-ID: 2161, Name: Vampire Pants
-ID: 2162, Name: Vampire Shoes
-ID: 2163, Name: Vampire Dress
-ID: 2164, Name: Animal Bell
-ID: 2165, Name: Alien Mask
-ID: 2166, Name: Alien Pants
-ID: 2167, Name: Alien Shirt
-ID: 2168, Name: Alien Shoes
-ID: 2169, Name: Alien Cape
-ID: 2170, Name: Plague Doctor Shoes
-ID: 2171, Name: Plague Doctor Mask
-ID: 2172, Name: Plague Doctor Pants
-ID: 2173, Name: Plague Doctor Robes
+| Item Id | Item Description |
+|--|--|
+| 2136 | Ghoul Drop{s} |
+| 2137 | Jack o'Lantern |
+| 2138 | Cauldron |
+| 2139 | Spooky Seed |
+| 2140 | Flying Broomstick |
+| 2141 | Spooky Path |
+| 2142 | Spooky Scarecrow |
+| 2143 | Pet Bat |
+| 2144 | Spooky Bed |
+| 2145 | Spooky Jackaroo |
+| 2146 | Spooky Lamp |
+| 2147 | Spooky Ghost |
+| 2148 | Jack o'lantern Stack |
+| 2149 | Spooky Cabinet |
+| 2150 | Spooky Fence |
+| 2151 | Spooky Sign |
+| 2152 | Bat Cage |
+| 2153 | Spooky Pergola |
+| 2154 | Spooky Yobbolin |
+| 2155 | Spooky Boombox |
+| 2156 | Fog Machine |
+| 2157 | Vampire Cape |
+| 2158 | Ghoul Drop Lantern |
+| 2159 | Spooky Pack |
+| 2160 | Vampire Coat |
+| 2161 | Vampire Pants |
+| 2162 | Vampire Shoes |
+| 2163 | Vampire Dress |
+| 2164 | Animal Bell |
+| 2165 | Alien Mask |
+| 2166 | Alien Pants |
+| 2167 | Alien Shirt |
+| 2168 | Alien Shoes |
+| 2169 | Alien Cape |
+| 2170 | Plague Doctor Shoes |
+| 2171 | Plague Doctor Mask |
+| 2172 | Plague Doctor Pants |
+| 2173 | Plague Doctor Robes |
