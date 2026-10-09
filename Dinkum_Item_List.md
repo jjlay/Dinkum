@@ -1,2142 +1,2145 @@
 # Base Game Items
 
-ID: 0, Name: Basic Axe
-ID: 1, Name: Megaphone
-ID: 2, Name: Bug Net
-ID: 3, Name: Chainsaw
-ID: 4, Name: Fishing Rod
-ID: 5, Name: Shovel of Dirt
-ID: 6, Name: Shovel
-ID: 7, Name: Hoe
-ID: 8, Name: Basic Pickaxe
-ID: 9, Name: Torch
-ID: 10, Name: Basic Watering Can
-ID: 11, Name: Wooden Bat
-ID: 12, Name: Bag of Cement
-ID: 13, Name: BBQ
-ID: 14, Name: Bone
-ID: 15, Name: Brick Path
-ID: 16, Name: Brick Steps
-ID: 17, Name: Bush Lime
-ID: 18, Name: Camp Fire
-ID: 19, Name: Cooked Meat
-ID: 20, Name: Funnel Web Spider
-ID: 21, Name: Raw Meat
-ID: 22, Name: Nails
-ID: 23, Name: Shiny Stone
-ID: 24, Name: Cooking Kettle
-ID: 25, Name: Garden Light
-ID: 26, Name: Stone
-ID: 27, Name: Stone Grinder
-ID: 28, Name: Sugar Cane
-ID: 29, Name: Ulysses Butterfly
-ID: 30, Name: Wooden Crate
-ID: 31, Name: Corner Ramp
-ID: 32, Name: Palm Wood Fence
-ID: 33, Name: Gum Log
-ID: 34, Name: Wooden Torch
-ID: 35, Name: Crafting Lab Deed
-ID: 36, Name: Your House Deed
-ID: 37, Name: Post Office Deed
-ID: 38, Name: PowerLine
-ID: 39, Name: Shop Deed
-ID: 40, Name: Aussie Hat
-ID: 41, Name: Black Boots
-ID: 42, Name: Blue Jeans
-ID: 43, Name: Tradie Boots
-ID: 44, Name: Tradie Pants
-ID: 45, Name: Dark Shorts
-ID: 46, Name: Purple Shirt
-ID: 47, Name: Red Flanney
-ID: 48, Name: Barcoo Grunter
-ID: 49, Name: Barramundi
-ID: 50, Name: River Bass
-ID: 51, Name: Hand Bell
-ID: 52, Name: Jungle Perch
-ID: 53, Name: Purple Armchair
-ID: 54, Name: Wooden Double Bed
-ID: 55, Name: Coffee Table
-ID: 56, Name: Wooden Chair
-ID: 57, Name: Wooden Couch
-ID: 58, Name: Small Round Table
-ID: 59, Name: Dark Wood Cabinet
-ID: 60, Name: Sugar Cane Seeds
-ID: 61, Name: Dog Hat
-ID: 62, Name: Holiday Hat
-ID: 63, Name: Blue Beanie
-ID: 64, Name: Top Hat
-ID: 65, Name: Red Baseball Cap
-ID: 66, Name: Yellow Bucket Hat
-ID: 67, Name: Welcome sign
-ID: 68, Name: Business Pants
-ID: 69, Name: Business Shirt
-ID: 70, Name: Business Shoes
-ID: 71, Name: Green Pants
-ID: 72, Name: Green Sweater
-ID: 73, Name: Green Shoes
-ID: 74, Name: Blue Holiday Shirt
-ID: 75, Name: Thongs
-ID: 76, Name: Blue Holiday Shorts
-ID: 77, Name: Tradie Shirt
-ID: 78, Name: Khaki Boots
-ID: 79, Name: Khaki Shorts
-ID: 80, Name: Khaki Shirt
-ID: 81, Name: Clothing Shop Deed
-ID: 82, Name: Blue Shorts
-ID: 83, Name: Blue and Yellow Shirt
-ID: 84, Name: Red Sneakers
-ID: 85, Name: Blue Dress
-ID: 86, Name: Fairest Dress
-ID: 87, Name: White Flats
-ID: 88, Name: Mustard Coat
-ID: 89, Name: White Sneakers
-ID: 90, Name: Ripped Jeans
-ID: 91, Name: White Dress
-ID: 92, Name: White Flats
-ID: 93, Name: Red Dress
-ID: 94, Name: Red Flats
-ID: 95, Name: Pin Stripe Jacket
-ID: 96, Name: Pin Stripe Pants
-ID: 97, Name: Grass Hopper
-ID: 98, Name: Common Blue Tail
-ID: 99, Name: Pontoon Bridge
-ID: 100, Name: Fly
-ID: 101, Name: Cockroach
-ID: 102, Name: Yellow Wattle Flower
-ID: 103, Name: Metal Detector
-ID: 104, Name: Opal
-ID: 105, Name: Copper Ore
-ID: 106, Name: Iron Ore
-ID: 107, Name: Quartz Crystal
-ID: 108, Name: Peacock Spider
-ID: 109, Name: Trogid
-ID: 110, Name: Street Lamp
-ID: 111, Name: Cabbage
-ID: 112, Name: Cabbage Seeds
-ID: 113, Name: Iron Bar
-ID: 114, Name: Copper Bar
-ID: 115, Name: Furnace
-ID: 116, Name: Carrot
-ID: 117, Name: Carrot Seeds
-ID: 118, Name: Thunderbox
-ID: 119, Name: First Aid Kit
-ID: 120, Name: Green Beanie
-ID: 121, Name: Red Beanie
-ID: 122, Name: Blue Bucket Hat
-ID: 123, Name: Corn
-ID: 124, Name: Corn Seeds
-ID: 125, Name: Plant Shop Deed
-ID: 126, Name: ADM
-ID: 127, Name: Dark Wooden Single Bed
-ID: 128, Name: Basic Watering Can
-ID: 129, Name: Mine Deed
-ID: 130, Name: Miners Helmet
-ID: 131, Name: Wooden Chair
-ID: 132, Name: Wooden Table
-ID: 133, Name: Wooden Bedside Table
-ID: 134, Name: Wooden Chest Of Drawers
-ID: 135, Name: Wooden Cabinet
-ID: 136, Name: Wooden Single Bed
-ID: 137, Name: Stylish ArmChair
-ID: 138, Name: Stylish Sofa
-ID: 139, Name: Dark Wooden Chair
-ID: 140, Name: Purple Sofa
-ID: 141, Name: A white chair
-ID: 142, Name: White Coffee Table
-ID: 143, Name: White Dinner Table
-ID: 144, Name: White Long Cofee Table
-ID: 145, Name: White Sofa
-ID: 146, Name: Stylish Bed
-ID: 147, Name: Stylish Bedside Table
-ID: 148, Name: Stylish Drawers
-ID: 149, Name: Stylish Dresser
-ID: 150, Name: Furniture Shop Deed
-ID: 151, Name: Dainty Bed
-ID: 152, Name: Dainty Bedside Table
-ID: 153, Name: Dainty Chair
-ID: 154, Name: Dainty Coffee Table
-ID: 155, Name: Dainty Drawers
-ID: 156, Name: Dainty Kitchen Table
-ID: 157, Name: Dainty Lamp
-ID: 158, Name: Dainty Ottoman
-ID: 159, Name: Dainty Sofa
-ID: 160, Name: White Arm Chair
-ID: 161, Name: White Ottoman
-ID: 162, Name: White Bed
-ID: 163, Name: White Bed Side Table.
-ID: 164, Name: White Chest of Drawers
-ID: 165, Name: Fern Vase
-ID: 166, Name: Purple Vase
-ID: 167, Name: Yellow Wattle Vase
-ID: 168, Name: Kitchen Cabinet
-ID: 169, Name: Kitchen Oven
-ID: 170, Name: Kitchen Sink
-ID: 171, Name: Stylish Chair
-ID: 172, Name: Stylish Table
-ID: 173, Name: Stylish Lamp
-ID: 174, Name: Regal ArmChair
-ID: 175, Name: Regal Bed
-ID: 176, Name: Regal Bedside Table
-ID: 177, Name: Regal Chair
-ID: 178, Name: Regal Lamp
-ID: 179, Name: Regal Sofa
-ID: 180, Name: Regal Table
-ID: 181, Name: Regal Drawers
-ID: 182, Name: Feather
-ID: 183, Name: Copper Pickaxe
-ID: 184, Name: Iron Pickaxe
-ID: 185, Name: Space Helmet
-ID: 186, Name: Space Suit Pants
-ID: 187, Name: Space Suit Shirt
-ID: 188, Name: Space Suit Shoes
-ID: 189, Name: Pink Baseball Cap
-ID: 190, Name: Black Pants
-ID: 191, Name: Black Shirt
-ID: 192, Name: Black Sneakers
-ID: 193, Name: Daisy Shorts
-ID: 194, Name: Pink Dress
-ID: 195, Name: Strapped Sandals
-ID: 196, Name: Green Baseball Cap
-ID: 197, Name: Nautilis Shell
-ID: 198, Name: Scallop Shell
-ID: 199, Name: Syrinx Shell
-ID: 200, Name: Banded Morwong
-ID: 201, Name: Bluefish
-ID: 202, Name: Garfish
-ID: 203, Name: Golden Perch
-ID: 204, Name: Mangrove Jack
-ID: 205, Name: Luderick
-ID: 206, Name: Blue Spot Flathead
-ID: 207, Name: Travalla
-ID: 208, Name: Yellowfin Tuna
-ID: 209, Name: Pirate Coat
-ID: 210, Name: Spinifex Tuft
-ID: 211, Name: Hot Air Balloon
-ID: 212, Name: Spinifex Resin
-ID: 213, Name: Palm Wood Log
-ID: 214, Name: Prickly Pear Flesh
-ID: 215, Name: Cactus Figs
-ID: 216, Name: Copper Axe
-ID: 217, Name: Iron Axe
-ID: 218, Name: Jump Charm
-ID: 219, Name: Swim Charm
-ID: 220, Name: Run Charm
-ID: 221, Name: White Collar Dress
-ID: 222, Name: Dark Blue Button Dress
-ID: 223, Name: Crab Pot
-ID: 224, Name: Mud Crab
-ID: 225, Name: Honey
-ID: 226, Name: Bee House
-ID: 227, Name: Bee
-ID: 228, Name: Queen Bee
-ID: 229, Name: Red Back Spider
-ID: 230, Name: Desert Scorpion
-ID: 231, Name: Stinkbug
-ID: 232, Name: Paper Wasp
-ID: 233, Name: Birdwing Butterfly
-ID: 234, Name: Swallow-tail Butterfly
-ID: 235, Name: Harlequin Butterfly
-ID: 236, Name: Sling Shot
-ID: 237, Name: Yabbie
-ID: 238, Name: Pink Shots
-ID: 239, Name: Pink Sneakers
-ID: 240, Name: Pink T-Shirt
-ID: 241, Name: Blue Sneakers
-ID: 242, Name: Blue T-Shirt
-ID: 243, Name: Purple Dress
-ID: 244, Name: Purple Flats
-ID: 245, Name: Purple Pants
-ID: 246, Name: Crocodile Tooth
-ID: 247, Name: Glowing Mushroom
-ID: 248, Name: Firefly
-ID: 249, Name: Field Cricket
-ID: 250, Name: Cement Path
-ID: 251, Name: Brick Fence
-ID: 252, Name: Ute
-ID: 253, Name: Green Boots
-ID: 254, Name: Brown Pants
-ID: 255, Name: Blue Flanney Shirt
-ID: 256, Name: Black Striped Pants
-ID: 257, Name: Green Jacket
-ID: 258, Name: Maroon Pants
-ID: 259, Name: Adventure Hood
-ID: 260, Name: Red Strapped Shoes
-ID: 261, Name: Overall Dress
-ID: 262, Name: Stripped Tights
-ID: 263, Name: Chef Hat
-ID: 264, Name: Cement Steps
-ID: 265, Name: Water Tank Plan
-ID: 266, Name: Chef Jacket
-ID: 267, Name: Chef Pants
-ID: 268, Name: Orange Shorts
-ID: 269, Name: Orange T-Shirt
-ID: 270, Name: Brown Sandals
-ID: 271, Name: Hedge
-ID: 272, Name: Roo Poo
-ID: 273, Name: Palm Wood Lamp Post
-ID: 274, Name: Palm Wood Gate
-ID: 275, Name: Fertilizer
-ID: 276, Name: Recycling Bin
-ID: 277, Name: Bomb
-ID: 278, Name: Sprinkler
-ID: 279, Name: Aviator Sun Glasses
-ID: 280, Name: Eye Patch
-ID: 281, Name: Fake Mustache
-ID: 282, Name: Modern Glasses
-ID: 283, Name: Modern Sun Glasses
-ID: 284, Name: Monocle
-ID: 285, Name: Old School Glasses
-ID: 286, Name: Round Glasses
-ID: 287, Name: Round Sun Glasses
-ID: 288, Name: Small Glasses
-ID: 289, Name: Small Sun Glasses
-ID: 290, Name: Square Glasses
-ID: 291, Name: Square Sun Glasses
-ID: 292, Name: Jolly Beard
-ID: 293, Name: Jolly Hat
-ID: 294, Name: Jolly Pants
-ID: 295, Name: Jolly Shirt
-ID: 296, Name: Jolly Shoes
-ID: 297, Name: Bananas
-ID: 298, Name: Termite Nest
-ID: 299, Name: Dink
-ID: 300, Name: Apple
-ID: 301, Name: Hard Wood Log
-ID: 302, Name: Animal Trap
-ID: 303, Name: Scythe
-ID: 304, Name: Table Saw
-ID: 305, Name: Wood Plank
-ID: 306, Name: Palm Wood Plank
-ID: 307, Name: Hard Wood Plank
-ID: 308, Name: Raw Drumstick
-ID: 309, Name: Pearl
-ID: 310, Name: Cooked Drumstick
-ID: 311, Name: Magic Tome
-ID: 312, Name: Magic Shovel of Dirt
-ID: 313, Name: Grass Seed
-ID: 314, Name: Palm Wood Path
-ID: 315, Name: Palm Wood Steps
-ID: 316, Name: Gum Nut
-ID: 317, Name: Pine Cone
-ID: 318, Name: Palm Tree Seed
-ID: 319, Name: Sleeping Bag
-ID: 320, Name: Kale
-ID: 321, Name: Kale Seeds
-ID: 322, Name: Potato
-ID: 323, Name: Potato Seeds
-ID: 324, Name: Wheat
-ID: 325, Name: Wheat Seeds
-ID: 326, Name: Watermelon Seeds
-ID: 327, Name: Watermelon
-ID: 328, Name: Pumpkin
-ID: 329, Name: Pumpkin Seeds
-ID: 330, Name: Onion
-ID: 331, Name: Onion Seeds
-ID: 332, Name: Visiting Site Deed
-ID: 333, Name: Carp
-ID: 334, Name: Eyestripe Surgeon Fish
-ID: 335, Name: Black & White Snapper
-ID: 336, Name: Boofhead Catfish
-ID: 337, Name: Murray Cod
-ID: 338, Name: Eel Tailed Catfish
-ID: 339, Name: Stingray
-ID: 340, Name: MotorBike
-ID: 341, Name: Bird Coop
-ID: 342, Name: Animal Shop Deed
-ID: 343, Name: Animal Feeder
-ID: 344, Name: Animal Food
-ID: 345, Name: Chicken Egg
-ID: 346, Name: Rock Path
-ID: 347, Name: Animal Stall
-ID: 348, Name: Vombat Whistle
-ID: 349, Name: Milking Bucket
-ID: 350, Name: Milk
-ID: 351, Name: Wooden Flower Bed
-ID: 352, Name: Hedge Arch
-ID: 353, Name: Diving Knife
-ID: 354, Name: Pink Bow Hat
-ID: 355, Name: Sun Hat
-ID: 356, Name: Gangsta Hat
-ID: 357, Name: Emu Mount
-ID: 358, Name: Brick Fountain
-ID: 359, Name: Cooking Table
-ID: 360, Name: Lamington
-ID: 361, Name: Fish and Chips
-ID: 362, Name: Fruit Salad
-ID: 363, Name: Garden Salad
-ID: 364, Name: Hearty Stew
-ID: 365, Name: Desert Rose Pot
-ID: 366, Name: Fruit Bowl
-ID: 367, Name: Alarm Clock
-ID: 368, Name: Regal Clock
-ID: 369, Name: Red Lava Lamp
-ID: 370, Name: Roo Plush
-ID: 371, Name: Basic Wooden Floor
-ID: 372, Name: Basic Wooden Wall
-ID: 373, Name: Dainty Floor
-ID: 374, Name: Regal Rug
-ID: 375, Name: Dainty Wall
-ID: 376, Name: Checkered Floor
-ID: 377, Name: Basic White Wall
-ID: 378, Name: Light Blue Wall
-ID: 379, Name: Checkered Wall
-ID: 380, Name: Museum Deed
-ID: 381, Name: Chequer Vest
-ID: 382, Name: Old Key
-ID: 383, Name: Quarry
-ID: 384, Name: Old Gear
-ID: 385, Name: Yellow Hang Glider
-ID: 386, Name: Candle hat
-ID: 387, Name: Basic Spear
-ID: 388, Name: Chicken Whistle
-ID: 389, Name: Basic Hammer
-ID: 390, Name: Toad Skin
-ID: 391, Name: Bulletin Board Deed
-ID: 392, Name: Keg
-ID: 393, Name: Wattle Brew
-ID: 394, Name: Camera
-ID: 395, Name: Animal Collection Point
-ID: 396, Name: Desert Rose
-ID: 397, Name: Billy Button
-ID: 398, Name: Royal Bluebell
-ID: 399, Name: Desert Pea
-ID: 400, Name: Common Heath
-ID: 401, Name: Town Hall
-ID: 402, Name: Animal Shears
-ID: 403, Name: Wool
-ID: 404, Name: Animal Den
-ID: 405, Name: Blueprint
-ID: 406, Name: Pink Polka Dot Pants
-ID: 407, Name: Pink Polka Dot Shirt
-ID: 408, Name: Pink Polka dot Shoes
-ID: 409, Name: Pink Polka Dot Dress
-ID: 410, Name: Orange Dino Shirt
-ID: 411, Name: Skull Shirt
-ID: 412, Name: Feather Shirt
-ID: 413, Name: Black Baseball Cap
-ID: 414, Name: White Baseball Cap
-ID: 415, Name: White Sweat Pants
-ID: 416, Name: Brown Sand Shoes
-ID: 417, Name: Camo Cap
-ID: 418, Name: Camo Dress
-ID: 419, Name: Camo Pants
-ID: 420, Name: Camo Shirt
-ID: 421, Name: Camo Boots
-ID: 422, Name: Cargo Pants
-ID: 423, Name: Blue Stripe Shirt
-ID: 424, Name: Green Sand Shoes
-ID: 425, Name: Orange Cargo Pants
-ID: 426, Name: Orange Sand Shoes
-ID: 427, Name: Orange Stripe Shirt
-ID: 428, Name: Straw Sun Hat
-ID: 429, Name: Red Puffy Jacket
-ID: 430, Name: Blue Puffy Jacket
-ID: 431, Name: Green Puffy Jacket
-ID: 432, Name: Purple Puffy Jacket
-ID: 433, Name: Blue Ugly Sweater
-ID: 434, Name: Blue Cuffed Pants
-ID: 435, Name: Green Cuffed Pants
-ID: 436, Name: Purple Cuffed Pants
-ID: 437, Name: Red Cuffed Pants
-ID: 438, Name: Pink Singlet
-ID: 439, Name: Red Singlet
-ID: 440, Name: Red Shorts
-ID: 441, Name: Black Singlet
-ID: 442, Name: Black Shorts
-ID: 443, Name: Swimming Goggles
-ID: 444, Name: Punk Goggles
-ID: 445, Name: Yellow Gum Boots
-ID: 446, Name: Rain Coat
-ID: 447, Name: Rain Hat
-ID: 448, Name: Blue Stripe dress
-ID: 449, Name: Orange Stripe dress
-ID: 450, Name: Gacha Machine
-ID: 451, Name: Basic Bench
-ID: 452, Name: Scarecrow
-ID: 453, Name: Brick Flower Bed
-ID: 454, Name: Recycling Bin
-ID: 455, Name: Small Rock
-ID: 456, Name: Tin Ore
-ID: 457, Name: Crude Axe
-ID: 458, Name: Crude Furnace
-ID: 459, Name: Tent
-ID: 460, Name: Tin Bar
-ID: 461, Name: Flagpole
-ID: 462, Name: Base Tent
-ID: 463, Name: Picket Fence
-ID: 464, Name: Picket Gate
-ID: 465, Name: Skull Mask
-ID: 466, Name: Tin Sheet
-ID: 467, Name: Dog Kennel
-ID: 468, Name: Dog Whistle
-ID: 469, Name: Green Pattern Wall
-ID: 470, Name: Blue Pattern Wall
-ID: 471, Name: Red Pattern Wall
-ID: 472, Name: Pink Pattern Wall
-ID: 473, Name: Dark Wooden Wall
-ID: 474, Name: Dark Wooden Floor
-ID: 475, Name: Pink Carpet
-ID: 476, Name: Basic Blue Wallpaper
-ID: 477, Name: Basic Green Wallpaper
-ID: 478, Name: Basic Pink Wallpaper
-ID: 479, Name: Basic Red Wall
-ID: 480, Name: Bank Deed
-ID: 481, Name: Crafting Table
-ID: 482, Name: Tiki Torch
-ID: 483, Name: Crude Fence
-ID: 484, Name: Bonytongue
-ID: 485, Name: Green Flat Cap
-ID: 486, Name: Pirate Pants
-ID: 487, Name: Pirate Boots
-ID: 488, Name: Pirate Hat
-ID: 489, Name: Ninja Hood
-ID: 490, Name: Ninja Boots
-ID: 491, Name: Ninja Pants
-ID: 492, Name: Ninja Shirt
-ID: 493, Name: Yellow Polka Dot Dress
-ID: 494, Name: Yellow Plaid Dress
-ID: 495, Name: Blue Plaid Dress
-ID: 496, Name: Brown Overall Dress
-ID: 497, Name: Green Overall Dress
-ID: 498, Name: Green Cardigan Dress
-ID: 499, Name: Pink Cardigan Dress
-ID: 500, Name: Green Bow Hat
-ID: 501, Name: Old Straw Hat
-ID: 502, Name: Donation Box
-ID: 503, Name: Weather Station
-ID: 504, Name: Green Flannelette Shirt
-ID: 505, Name: Green Plaid Pants
-ID: 506, Name: Blue Plaid Pants
-ID: 507, Name: Orange Flanney Shirt
-ID: 508, Name: Orange Plaid Pants
-ID: 509, Name: Red Plaid Pants
-ID: 510, Name: Orange Flat Cap
-ID: 511, Name: Red Flat Cap
-ID: 512, Name: Blue Flat Cap
-ID: 513, Name: Blue Flanney Dress
-ID: 514, Name: Green Flannelette Dress
-ID: 515, Name: Orange Flanney Dress
-ID: 516, Name: Red Flanney Dress
-ID: 517, Name: Guitar
-ID: 518, Name: Guest House Deed
-ID: 519, Name: Guest House Deed
-ID: 520, Name: Guest House Deed
-ID: 521, Name: Player Shed
-ID: 522, Name: Eastern Chair
-ID: 523, Name: Eastern Seat
-ID: 524, Name: Eastern Bed
-ID: 525, Name: Eastern Bedside Table
-ID: 526, Name: Eastern Bookshelf
-ID: 527, Name: Eastern Wardrobe
-ID: 528, Name: Eastern Coffee Table
-ID: 529, Name: Eastern Couch
-ID: 530, Name: Eastern Table
-ID: 531, Name: Eastern Lamp
-ID: 532, Name: Eastern Floor
-ID: 533, Name: Eastern Wall
-ID: 534, Name: Red Wood Floor
-ID: 535, Name: Small Stack of Books
-ID: 536, Name: Wombie Bank
-ID: 537, Name: Billy Button Pot
-ID: 538, Name: Royal Bluebell Pot
-ID: 539, Name: Rattan Bed
-ID: 540, Name: Rattan Bookshelf
-ID: 541, Name: Rattan Cabinet
-ID: 542, Name: Rattan Chair
-ID: 543, Name: Rattan Coffee Table
-ID: 544, Name: Rattan Couch
-ID: 545, Name: Rattan Table
-ID: 546, Name: Rattan Floor
-ID: 547, Name: Rattan Lamp
-ID: 548, Name: Rattan Seat
-ID: 549, Name: Rattan Bedside Table
-ID: 550, Name: Rattan Wall
-ID: 551, Name: Nordic Bed
-ID: 552, Name: Nordic Bedside Table
-ID: 553, Name: Nordic Bookshelf
-ID: 554, Name: Nordic Cabinet
-ID: 555, Name: Nordic Chair
-ID: 556, Name: Nordic Coffee Table
-ID: 557, Name: Nordic Couch
-ID: 558, Name: Nordic Table
-ID: 559, Name: Nordic Floor
-ID: 560, Name: Nordic Lamp
-ID: 561, Name: Nordic Seat
-ID: 562, Name: Nordic Wall
-ID: 563, Name: Pink Bed
-ID: 564, Name: Pink Bedside Table
-ID: 565, Name: Pink Bookshelf
-ID: 566, Name: Pink Cabinet
-ID: 567, Name: Pink Chair
-ID: 568, Name: Pink Coffee Table
-ID: 569, Name: Pink Couch
-ID: 570, Name: Pink Table
-ID: 571, Name: Pink Lamp
-ID: 572, Name: Pink Seat
-ID: 573, Name: Cube Floor
-ID: 574, Name: Cube Wall
-ID: 575, Name: Cooked Apple
-ID: 576, Name: Cooked Banana
-ID: 577, Name: Cooked Bush Lime
-ID: 578, Name: Palm Wood Bridge
-ID: 579, Name: Meadow Katydid
-ID: 580, Name: Rhinoceros Beetle
-ID: 581, Name: Goliath stick
-ID: 582, Name: Bogong Moth
-ID: 583, Name: Scarlet Jezebel Butterfly
-ID: 584, Name: Raw Giant Drumstick
-ID: 585, Name: Hot Cylinder
-ID: 586, Name: Green Board
-ID: 587, Name: Old Wheel
-ID: 588, Name: Shiny Disc
-ID: 589, Name: North Teletower
-ID: 590, Name: East Teletower
-ID: 591, Name: South Teletower
-ID: 592, Name: West Teletower
-ID: 593, Name: Copper Spear
-ID: 594, Name: Iron Spear
-ID: 595, Name: Copper Hammer
-ID: 596, Name: Iron Hammer
-ID: 597, Name: Island Map
-ID: 598, Name: Adventurer's Journal
-ID: 599, Name: Jack Hammer
-ID: 600, Name: Jet Ski
-ID: 601, Name: Glass Bulb
-ID: 602, Name: Smooth Slate
-ID: 603, Name: Big Chicken Egg
-ID: 604, Name: Rowboat
-ID: 605, Name: Blackfish
-ID: 606, Name: Galaxias
-ID: 607, Name: Silver Perch
-ID: 608, Name: Anchovy
-ID: 609, Name: Goat Fish
-ID: 610, Name: Barracuda
-ID: 611, Name: Blob Fish
-ID: 612, Name: Saratoga
-ID: 613, Name: Tarpon
-ID: 614, Name: Black Cricket
-ID: 615, Name: Monarch Butterfly
-ID: 616, Name: Lacewing
-ID: 617, Name: Emperor DragonFly
-ID: 618, Name: Pygmyfly
-ID: 619, Name: Tau Emerald Dragonfly
-ID: 620, Name: Ladybird
-ID: 621, Name: Tiger Moth
-ID: 622, Name: Duskhawker Dragonfly
-ID: 623, Name: Largidae
-ID: 624, Name: Huntsman
-ID: 625, Name: Blue Moon Butterfly
-ID: 626, Name: Fiddler Beetle
-ID: 627, Name: Stag Beetle
-ID: 628, Name: Marlin
-ID: 629, Name: Grayling
-ID: 630, Name: Hercules Moth
-ID: 631, Name: Centipede
-ID: 632, Name: Short Finned Eel
-ID: 633, Name: Spinning Wheel
-ID: 634, Name: Cloth
-ID: 635, Name: Cheese Maker
-ID: 636, Name: Cheese
-ID: 637, Name: High Quality Milk
-ID: 638, Name: High Quality Cheese
-ID: 639, Name: Old Spring
-ID: 640, Name: Sliding Handle
-ID: 641, Name: Button Board
-ID: 642, Name: Bright Wire
-ID: 643, Name: Old Toy
-ID: 644, Name: Ear Hats
-ID: 645, Name: Old Contraption
-ID: 646, Name: Cooked Giant Drumstick
-ID: 647, Name: Cooked Croco Meat
-ID: 648, Name: Croco Meat
-ID: 649, Name: Mangrove Stick
-ID: 650, Name: Bottle Tree Wood
-ID: 651, Name: Red Hooded Cap
-ID: 652, Name: Pilot Goggles
-ID: 653, Name: Googly Eyes
-ID: 654, Name: Hero Mask
-ID: 655, Name: Bunny Hood
-ID: 656, Name: Yellow Sweats
-ID: 657, Name: Yellow Sneakers
-ID: 658, Name: Yellow B Shirt
-ID: 659, Name: Mine Pass
-ID: 660, Name: Fern Seed
-ID: 661, Name: Bush Seed
-ID: 662, Name: Base Tent Deed
-ID: 663, Name: Visiting Site Deed
-ID: 664, Name: Flame Sac
-ID: 665, Name: Basic Green Rug
-ID: 666, Name: Basic Red Rug
-ID: 667, Name: Bank Wall
-ID: 668, Name: Grass Floor
-ID: 669, Name: Cooked Cactus Fig
-ID: 670, Name: Wooden Item Sign
-ID: 671, Name: Cloud Wall
-ID: 672, Name: Retro Flower Wall
-ID: 673, Name: Retro Floor
-ID: 674, Name: Basic Blue Rug
-ID: 675, Name: Basic Pink Rug
-ID: 676, Name: Basic Purple Rug
-ID: 677, Name: Basic Orange Rug
-ID: 678, Name: Marble Floor
-ID: 679, Name: Bug Book
-ID: 680, Name: Fish Book
-ID: 681, Name: Plant Book
-ID: 682, Name: Compactor
-ID: 683, Name: Jackaroo Mask
-ID: 684, Name: Helicopter
-ID: 685, Name: Meat Pie
-ID: 686, Name: Pavlova
-ID: 687, Name: Dagwood Dog
-ID: 688, Name: Croc Teeth Bat
-ID: 689, Name: Flaming Bat
-ID: 690, Name: Quiche
-ID: 691, Name: Meat on a stick
-ID: 692, Name: Water Tank
-ID: 693, Name: Silo
-ID: 694, Name: Blackwood Seed
-ID: 695, Name: Fake Beard
-ID: 696, Name: Cement Fence
-ID: 697, Name: Simple Animal Trap
-ID: 698, Name: Bottle Brush
-ID: 699, Name: Copper Watering Can
-ID: 700, Name: Copper Watering Can
-ID: 701, Name: Iron Watering Can
-ID: 702, Name: Iron Watering Can
-ID: 703, Name: Compost Bin
-ID: 704, Name: Shovel of Sand
-ID: 705, Name: Shovel of Mud
-ID: 706, Name: Shovel of Red Sand
-ID: 707, Name: Fir Grass Seeds
-ID: 708, Name: Tropical Grass Seeds
-ID: 709, Name: Long Shoes
-ID: 710, Name: Tele Pad
-ID: 711, Name: Tele Caller
-ID: 712, Name: Black Jacket
-ID: 713, Name: Black Jeans
-ID: 714, Name: White Pants
-ID: 715, Name: White T-Shirt
-ID: 716, Name: Black Flat Cap
-ID: 717, Name: Black Flanney Shirt
-ID: 718, Name: Black Plaid Pants
-ID: 719, Name: Yellow Shorts
-ID: 720, Name: Yellow T-Shirt
-ID: 721, Name: Yellow Boots
-ID: 722, Name: White Boots
-ID: 723, Name: Face Bandana Green
-ID: 724, Name: Face Bandana Black
-ID: 725, Name: Face Bandana Blue
-ID: 726, Name: Face Bandana Orange
-ID: 727, Name: Face Bandana Red
-ID: 728, Name: Large Round Glasses
-ID: 729, Name: Retro Point Glasses
-ID: 730, Name: Retro Point Sun Glasses
-ID: 731, Name: Triangle Glasses
-ID: 732, Name: Shutter Shades
-ID: 733, Name: Round Horned Glasses
-ID: 734, Name: Round Horned Sun Glasses
-ID: 735, Name: Yellow Dress
-ID: 736, Name: Rainbow Dress
-ID: 737, Name: Black Plaid Dress
-ID: 738, Name: Rainbow T-Shirt
-ID: 739, Name: Rainbow Pants
-ID: 740, Name: Rainbow Sneakers
-ID: 741, Name: Red Nose
-ID: 742, Name: Beak
-ID: 743, Name: Black Coat
-ID: 744, Name: Black Ripped Jeans
-ID: 745, Name: House Move Deed
-ID: 746, Name: Jelly
-ID: 747, Name: Jelly Brew
-ID: 748, Name: Bottle Brush Brew
-ID: 749, Name: Advanced Sprinkler
-ID: 750, Name: Vombat Poo
-ID: 751, Name: White Mask
-ID: 752, Name: Black Mask
-ID: 753, Name: Windmill
-ID: 754, Name: Flower Pot
-ID: 755, Name: Gum Wood Path
-ID: 756, Name: Hard Wood Path
-ID: 757, Name: Hard Wood Bridge
-ID: 758, Name: Gum Wood Bridge
-ID: 759, Name: Brick Bridge
-ID: 760, Name: Gum Wood Fence
-ID: 761, Name: Hard Wood Fence
-ID: 762, Name: Tin Fence
-ID: 763, Name: Big Fried Egg
-ID: 764, Name: Fried Egg
-ID: 765, Name: Gum Wood Gate
-ID: 766, Name: Hard Wood Gate
-ID: 767, Name: Tin Gate
-ID: 768, Name: Copper Hoe
-ID: 769, Name: Brick Well
-ID: 770, Name: Quandong
-ID: 771, Name: Cooked Quandong
-ID: 772, Name: Flake
-ID: 773, Name: Cooked Flake
-ID: 774, Name: Wheelbarrow
-ID: 775, Name: Iron Path
-ID: 776, Name: Bottle Brush Seed
-ID: 777, Name: Wattle Seed
-ID: 778, Name: Copper Fishing Rod
-ID: 779, Name: Iron Fishing Rod
-ID: 780, Name: Chicken Hood
-ID: 781, Name: Wizard Hat
-ID: 782, Name: Wizard Robe
-ID: 783, Name: Witch Hat
-ID: 784, Name: Witch Robe
-ID: 785, Name: Green Chair
-ID: 786, Name: Green Seat
-ID: 787, Name: Green Bed
-ID: 788, Name: Green Bedside Table
-ID: 789, Name: Green Bookshelf
-ID: 790, Name: Green Cabinet
-ID: 791, Name: Green Couch
-ID: 792, Name: Green Coffee Table
-ID: 793, Name: Green Table
-ID: 794, Name: Green Lamp
-ID: 795, Name: Town Hall Base Tent Upgrade
-ID: 796, Name: Town Hall Deed
-ID: 797, Name: Storage Barrel
-ID: 798, Name: Lawn Mower
-ID: 799, Name: Coconut
-ID: 800, Name: Boogie Board
-ID: 801, Name: Tractor
-ID: 802, Name: Blue Paint
-ID: 803, Name: Paint Remover
-ID: 804, Name: Black Paint
-ID: 805, Name: Green Paint
-ID: 806, Name: Orange Paint
-ID: 807, Name: Pink Paint
-ID: 808, Name: Purple Paint
-ID: 809, Name: Red Paint
-ID: 810, Name: White Paint
-ID: 811, Name: Yellow Paint
-ID: 812, Name: Chrome Paint
-ID: 813, Name: Gold Paint
-ID: 814, Name: Buccinidae Shell
-ID: 815, Name: Cassidae Shell
-ID: 816, Name: Sand Dollar
-ID: 817, Name: Tonnidae Shell
-ID: 818, Name: Biscuit Sea Star
-ID: 819, Name: Eleven-armed Sea Star
-ID: 820, Name: Black Sea Cucumber
-ID: 821, Name: Spiny Sea Urchin
-ID: 822, Name: Pink Sea Urchin
-ID: 823, Name: Purple Sea Urchin
-ID: 824, Name: King Prawn
-ID: 825, Name: Tiger Prawn
-ID: 826, Name: Bay Bug
-ID: 827, Name: Fresh Water Mussel
-ID: 828, Name: Fresh Water Prawn
-ID: 829, Name: Inland Crab
-ID: 830, Name: Purple Mottled Crab
-ID: 831, Name: Blue Mussel
-ID: 832, Name: Cushion Sea Star
-ID: 833, Name: White Yabbie
-ID: 834, Name: Blue Sea Slug
-ID: 835, Name: Croco Berley Box
-ID: 836, Name: Devil Berley Box
-ID: 837, Name: Shark Berley Box
-ID: 838, Name: Battle Shovel
-ID: 839, Name: Bone Bow
-ID: 840, Name: Bone Arrow
-ID: 841, Name: Gold Pocket Watch
-ID: 842, Name: Boom Box
-ID: 843, Name: Tomato
-ID: 844, Name: Tomato Seeds
-ID: 845, Name: Green Bean
-ID: 846, Name: Green Bean Seeds
-ID: 847, Name: Empty Miners Helmet
-ID: 848, Name: Wooden Chest
-ID: 849, Name: Doggo Collar
-ID: 850, Name: Mu Saddle
-ID: 851, Name: Copper Bulb Lamp
-ID: 852, Name: Cooked Prime Meat
-ID: 853, Name: Raw Prime Meat
-ID: 854, Name: Repair Table
-ID: 855, Name: Repair Kit
-ID: 856, Name: Charging Station
-ID: 857, Name: Old Sign
-ID: 858, Name: Iron Hoe
-ID: 859, Name: Bat Wing
-ID: 860, Name: Grain Mill
-ID: 861, Name: Flour
-ID: 862, Name: Sugar
-ID: 863, Name: Worm Farm
-ID: 864, Name: Machine Manual
-ID: 865, Name: Warm Nordic Bed
-ID: 866, Name: Warm Nordic Bedside Table
-ID: 867, Name: Warm Nordic Bookshelf
-ID: 868, Name: Warm Nordic Cabinet
-ID: 869, Name: Warm Nordic Chair
-ID: 870, Name: Warm Nordic Coffee Table
-ID: 871, Name: Warm Nordic Couch
-ID: 872, Name: Warm Nordic Table
-ID: 873, Name: Tall Book Shelf
-ID: 874, Name: Warm Nordic Lamp
-ID: 875, Name: Warm Nordic Seat
-ID: 876, Name: Red Hang Glider
-ID: 877, Name: Butter Glider
-ID: 878, Name: Dark Wooden Table
-ID: 879, Name: Dark Wooden Seat
-ID: 880, Name: Dark Wooden Couch
-ID: 881, Name: Dark Wooden Bedside Table
-ID: 882, Name: Tea Pot
-ID: 883, Name: Small Pot
-ID: 884, Name: Rattan Basket
-ID: 885, Name: Palm Wood Bench
-ID: 886, Name: Hard Wood Bench
-ID: 887, Name: Gum Wood Bench
-ID: 888, Name: Iron Wood Bench
-ID: 889, Name: Festoon Lights
-ID: 890, Name: Mushroom Lamp
-ID: 891, Name: Jackaroo Statue
-ID: 892, Name: Bush Devil Statue
-ID: 893, Name: Bread
-ID: 894, Name: Fairy Bread
-ID: 895, Name: Pastie
-ID: 896, Name: Damper
-ID: 897, Name: Sausage Roll
-ID: 898, Name: Prime Roast
-ID: 899, Name: Golden Jackaroo Statue
-ID: 900, Name: Golden Bush Devil Statue
-ID: 901, Name: Iron Cement Fence
-ID: 902, Name: Copper Top Fence
-ID: 903, Name: Umbrella
-ID: 904, Name: Bulletin Board
-ID: 905, Name: Thunder Sac
-ID: 906, Name: Bat Zapper
-ID: 907, Name: Gum Wood Steps
-ID: 908, Name: Hard Wood Steps
-ID: 909, Name: Gum Wood Lamp Post
-ID: 910, Name: Hard Wood Lamp Post
-ID: 911, Name: Copper Scythe
-ID: 912, Name: Iron Scythe
-ID: 913, Name: Cement Bird Bath
-ID: 914, Name: Hardwood Crude Fence
-ID: 915, Name: Froggy Hood
-ID: 916, Name: Cat Hood
-ID: 917, Name: Yellow Print Dress
-ID: 918, Name: Yellow Print Pants
-ID: 919, Name: Brown Boat Shoes
-ID: 920, Name: Floppy Straw Hat
-ID: 921, Name: Bunting Festoon
-ID: 922, Name: House Customisation Kit
-ID: 923, Name: Gum Wood Flag Post
-ID: 924, Name: Palm Wood Flag Post
-ID: 925, Name: Dirt Printer
-ID: 926, Name: Mighty Seeds
-ID: 927, Name: Mighty Spread
-ID: 928, Name: Hard Wood Flag Post
-ID: 929, Name: Black Wooden Crate
-ID: 930, Name: Blue Wooden Crate
-ID: 931, Name: Chrome Wooden Crate
-ID: 932, Name: Gold Wooden Crate
-ID: 933, Name: Green Wooden Crate
-ID: 934, Name: Orange Wooden Crate
-ID: 935, Name: Pink Wooden Crate
-ID: 936, Name: Purple Wooden Crate
-ID: 937, Name: Red Wooden Crate
-ID: 938, Name: White Wooden Crate
-ID: 939, Name: Yellow Wooden Crate
-ID: 940, Name: Black Wooden Chest
-ID: 941, Name: Blue Wooden Chest
-ID: 942, Name: Chrome Wooden Chest
-ID: 943, Name: Gold Wooden Chest
-ID: 944, Name: Green Wooden Chest
-ID: 945, Name: Orange Wooden Chest
-ID: 946, Name: Pink Wooden Chest
-ID: 947, Name: Purple Wooden Chest
-ID: 948, Name: Red Wooden Chest
-ID: 949, Name: White Wooden Chest
-ID: 950, Name: Yellow Wooden Chest
-ID: 951, Name: Salon Deed
-ID: 952, Name: Butterfly Orchid
-ID: 953, Name: Glow Bug
-ID: 954, Name: Deep Fish
-ID: 955, Name: Bat Glider
-ID: 956, Name: Alpha Hammer
-ID: 957, Name: Alpha Antler
-ID: 958, Name: Alpha Scale
-ID: 959, Name: Alpha Spear
-ID: 960, Name: Alpha Bat
-ID: 961, Name: Pattern Stone Path
-ID: 962, Name: Panda Hood
-ID: 963, Name: Alpha Eye
-ID: 964, Name: Cobblestone Path
-ID: 965, Name: Cobblestone Fence
-ID: 966, Name: Rock Edge Path
-ID: 967, Name: Cobblestone Road
-ID: 968, Name: Cobblestone Road Lines
-ID: 969, Name: Cooked Freshwater Fish
-ID: 970, Name: Cooked Saltwater Fish
-ID: 971, Name: Detective Pants
-ID: 972, Name: Trench Coat
-ID: 973, Name: Black Boat Shoes
-ID: 974, Name: P.I Hat
-ID: 975, Name: Dark Detective Pants
-ID: 976, Name: Dark Trench Coat
-ID: 977, Name: Dark P.I Hat
-ID: 978, Name: Blue Summer Dress
-ID: 979, Name: Green Summer Dress
-ID: 980, Name: Minimalist Bed
-ID: 981, Name: Minimalist Bedside Table
-ID: 982, Name: Minimalist Book Shelf
-ID: 983, Name: Minimalist Chair
-ID: 984, Name: Minimalist Couch
-ID: 985, Name: Minimalist Dresser
-ID: 986, Name: Minimalist Lamp
-ID: 987, Name: Minimalist Seat
-ID: 988, Name: White Brick Wallpaper
-ID: 989, Name: Red Brick Wallpaper
-ID: 990, Name: Green Brick Wallpaper
-ID: 991, Name: Dark Tiles
-ID: 992, Name: Bright Tiles
-ID: 993, Name: Mascot Head
-ID: 994, Name: Mascot Legs
-ID: 995, Name: Mascot Torso
-ID: 996, Name: Bunk Bed
-ID: 997, Name: Cooked Blob Fish
-ID: 998, Name: Honey Comb Path
-ID: 999, Name: Warm Nordic Wall
-ID: 1000, Name: Warm Nordic Floor
-ID: 1001, Name: Bottle Tree Seed
-ID: 1002, Name: Mushroom Path
-ID: 1003, Name: Pearl Path
-ID: 1004, Name: Melon Scarecrow
-ID: 1005, Name: Elf Ears
-ID: 1006, Name: Elf Hat
-ID: 1007, Name: Elf Pants
-ID: 1008, Name: Elf Shirt
-ID: 1009, Name: Elf Shoes
-ID: 1010, Name: Festive Tree
-ID: 1011, Name: Festive Scarecrow
-ID: 1012, Name: Festive Crate
-ID: 1013, Name: Festive Jackaroo
-ID: 1014, Name: Cherries
-ID: 1015, Name: Cooked Cherries
-ID: 1016, Name: Fireplace
-ID: 1017, Name: Mini Festive Tree
-ID: 1018, Name: Festive Boom Box
-ID: 1019, Name: Festive Towel
-ID: 1020, Name: Festive Umbrella
-ID: 1021, Name: Candy Cane
-ID: 1022, Name: Jolly Dress
-ID: 1023, Name: Striped Boogie Board
-ID: 1024, Name: Star Light
-ID: 1025, Name: Candy Pickaxe
-ID: 1026, Name: Candy Axe
-ID: 1027, Name: Gingerbread Path
-ID: 1028, Name: Festive Fence
-ID: 1029, Name: Pleep Whistle
-ID: 1030, Name: Holly Wreath
-ID: 1031, Name: Tuckshop Deed
-ID: 1032, Name: Marble Path
-ID: 1033, Name: Coffee Seeds
-ID: 1034, Name: Coffee Bean
-ID: 1035, Name: Roasted Coffee Beans
-ID: 1036, Name: Coffee
-ID: 1037, Name: Signwriting  Table
-ID: 1038, Name: A Letter Statue
-ID: 1039, Name: B Letter Statue
-ID: 1040, Name: C Letter Statue
-ID: 1041, Name: D Letter Statue
-ID: 1042, Name: E Letter Statue
-ID: 1043, Name: F Letter Statue
-ID: 1044, Name: G Letter Statue
-ID: 1045, Name: H Letter Statue
-ID: 1046, Name: I Letter Statue
-ID: 1047, Name: J Letter Statue
-ID: 1048, Name: K Letter Statue
-ID: 1049, Name: L Letter Statue
-ID: 1050, Name: M Letter Statue
-ID: 1051, Name: N Letter Statue
-ID: 1052, Name: O Letter Statue
-ID: 1053, Name: P Letter Statue
-ID: 1054, Name: Q Letter Statue
-ID: 1055, Name: R Letter Statue
-ID: 1056, Name: S Letter Statue
-ID: 1057, Name: T Letter Statue
-ID: 1058, Name: U Letter Statue
-ID: 1059, Name: V Letter Statue
-ID: 1060, Name: W Letter Statue
-ID: 1061, Name: X Letter Statue
-ID: 1062, Name: Y Letter Statue
-ID: 1063, Name: Z Letter Statue
-ID: 1064, Name: Hand Written sign
-ID: 1065, Name: Signwriting  Pen
-ID: 1066, Name: Iron Sign
-ID: 1067, Name: Gum Wood Direction Sign
-ID: 1068, Name: Palm Wood Direction Sign
-ID: 1069, Name: Hard Wood Direction Sign
-ID: 1070, Name: Tin Direction Sign
-ID: 1071, Name: Sail Boat
-ID: 1072, Name: Jackaroo Crossing Sign
-ID: 1073, Name: Lattice Fence
-ID: 1074, Name: Jackaroo Paw
-ID: 1075, Name: Flannel Flower
-ID: 1076, Name: River Daisy
-ID: 1077, Name: Orange Paper Daisy
-ID: 1078, Name: Gum Wood Flower Bed
-ID: 1079, Name: Wide Gum Wood Bridge
-ID: 1080, Name: Wide Hard Wood Bridge
-ID: 1081, Name: Bird of Paradise
-ID: 1082, Name: Glow Button
-ID: 1083, Name: Trash Bin
-ID: 1084, Name: Leaf Glider
-ID: 1085, Name: Desert Pea Pot
-ID: 1086, Name: River Daisy Pot
-ID: 1087, Name: Flannel Flower Pot
-ID: 1088, Name: Butterfly Orchid Pot
-ID: 1089, Name: Orange Paper Daisy Pot
-ID: 1090, Name: Pink Paper Daisy
-ID: 1091, Name: White Paper Daisy
-ID: 1092, Name: Wheelbarrow Flower Bed
-ID: 1093, Name: Ruby Shard
-ID: 1094, Name: Emerald Shard
-ID: 1095, Name: Waterbed
-ID: 1096, Name: Bottle of Clouds
-ID: 1097, Name: Large Cement Fountain
-ID: 1098, Name: Copper Flower Pot
-ID: 1099, Name: Lilly Pilly Seed
-ID: 1100, Name: Small Lilly Pilly Seed
-ID: 1101, Name: Comp Bug Net
-ID: 1102, Name: Gold Bug Comp Trophy
-ID: 1103, Name: Silver Bug Comp Trophy
-ID: 1104, Name: Bronze Bug Comp Trophy
-ID: 1105, Name: Bridged Waterbed
-ID: 1106, Name: Band Stand
-ID: 1107, Name: Diving Helmet
-ID: 1108, Name: Improved Chainsaw
-ID: 1109, Name: Empty Improved Chainsaw
-ID: 1110, Name: Balloon
-ID: 1111, Name: Red Cloth Path
-ID: 1112, Name: Sparkler
-ID: 1113, Name: Mu Whistle
-ID: 1114, Name: Camera Tripod
-ID: 1115, Name: Wooden Swing
-ID: 1116, Name: Lily Pad
-ID: 1117, Name: Giant Lily Pad
-ID: 1118, Name: Hard Wood Flower Bed
-ID: 1119, Name: Portable Roof
-ID: 1120, Name: Key-Cycler
-ID: 1121, Name: Billy Can Kit
-ID: 1122, Name: Tongs
-ID: 1123, Name: Tape Measure
-ID: 1124, Name: Jacaranda Sapling
-ID: 1125, Name: Small Cement Fountain
-ID: 1126, Name: Wattle Tea
-ID: 1127, Name: Bottle Brush Tea
-ID: 1128, Name: Croco Statue
-ID: 1129, Name: Frilly Statue
-ID: 1130, Name: Cement Planter
-ID: 1131, Name: Vine
-ID: 1132, Name: Vine Fence
-ID: 1133, Name: Mossy Brick Path
-ID: 1134, Name: Hard Wood Market Stall
-ID: 1135, Name: Marble Fence
-ID: 1136, Name: Post Box
-ID: 1137, Name: Marble Pedestal
-ID: 1138, Name: Marble Bench
-ID: 1139, Name: Marble Pillar
-ID: 1140, Name: Rope Fence
-ID: 1141, Name: Gerse Shirt
-ID: 1142, Name: Purple Jeans
-ID: 1143, Name: Purple Sneakers
-ID: 1144, Name: Orange Sneakers
-ID: 1145, Name: KD Shirt
-ID: 1146, Name: Orange Pants
-ID: 1147, Name: White Shorts
-ID: 1148, Name: Reaps Shirt
-ID: 1149, Name: Lime Sneakers
-ID: 1150, Name: Helmet
-ID: 1151, Name: Stone Lantern
-ID: 1152, Name: Sailor Hat
-ID: 1153, Name: Sailor Pants
-ID: 1154, Name: Sailor Shirt
-ID: 1155, Name: Sailor Boots
-ID: 1156, Name: Sailor Dress
-ID: 1157, Name: Sport Glasses
-ID: 1158, Name: Marble
-ID: 1159, Name: Dinner Set
-ID: 1160, Name: Stack of Plates
-ID: 1161, Name: Bread Board
-ID: 1162, Name: Wattle Brew Set
-ID: 1163, Name: Ramp
-ID: 1164, Name: Advanced Sling Shot
-ID: 1165, Name: Berkonium Ore
-ID: 1166, Name: Berkonium Bar
-ID: 1167, Name: Plant Hammer
-ID: 1168, Name: Raw Grub Meat
-ID: 1169, Name: Cooked Grub Meat
-ID: 1170, Name: Plant Book
-ID: 1171, Name: Traffic Cone
-ID: 1172, Name: Apple Jam
-ID: 1173, Name: Banana Jam
-ID: 1174, Name: Lime Jam
-ID: 1175, Name: Quandong Jam
-ID: 1176, Name: Red Hibiscus
-ID: 1177, Name: Yellow Hibiscus
-ID: 1178, Name: Wide Brick Bridge
-ID: 1179, Name: Improved Dirt Printer
-ID: 1180, Name: Empty Improved Dirt Printer
-ID: 1181, Name: Vine Festoon
-ID: 1182, Name: Stone Wand
-ID: 1183, Name: Bottle Brush Vase
-ID: 1184, Name: Potted Lilly Pilly
-ID: 1185, Name: Painted Lady Butterfly
-ID: 1186, Name: Grass Yellow Butterfly
-ID: 1187, Name: Purple Azure Butterfly
-ID: 1188, Name: Blast Furnace
-ID: 1189, Name: Improved Table Saw
-ID: 1190, Name: Ginger Shirt
-ID: 1191, Name: Purple Shorts
-ID: 1192, Name: Improved Jack Hammer
-ID: 1193, Name: Empty Improved Jack Hammer
-ID: 1194, Name: Improved Compactor
-ID: 1195, Name: Empty Improved Compactor
-ID: 1196, Name: Jurd Shirt
-ID: 1197, Name: Mouth Almighty
-ID: 1198, Name: Bee Hood
-ID: 1199, Name: Stone Sign
-ID: 1200, Name: Duck Canyon Shirt
-ID: 1201, Name: Tree House Shirt
-ID: 1202, Name: Soho Shirt
-ID: 1203, Name: Spec Shirt
-ID: 1204, Name: Tom Shirt
-ID: 1205, Name: Penguin Hood
-ID: 1206, Name: Finch Hood
-ID: 1207, Name: Moxie Shirt
-ID: 1208, Name: Tiger Hood
-ID: 1209, Name: Tongue
-ID: 1210, Name: Diggo Statue
-ID: 1211, Name: Tongue Whip
-ID: 1212, Name: Caito Shirt
-ID: 1213, Name: RileyKS Shirt
-ID: 1214, Name: Sandwich Chalkboard
-ID: 1215, Name: Bushlime Box
-ID: 1216, Name: Banana Box
-ID: 1217, Name: Apple Box
-ID: 1218, Name: Quandong Box
-ID: 1219, Name: Party Horn
-ID: 1220, Name: Snag
-ID: 1221, Name: Balloon
-ID: 1222, Name: Dinkum Shirt
-ID: 1223, Name: JB Shirt
-ID: 1224, Name: Prize Ticket
-ID: 1225, Name: Dinkum Cap
-ID: 1226, Name: Bubble Blower
-ID: 1227, Name: Croco Plush
-ID: 1228, Name: Frying pan
-ID: 1229, Name: Magpie Plush
-ID: 1230, Name: Mu Plush
-ID: 1231, Name: Red Bar Stool
-ID: 1232, Name: Raffle Wheel
-ID: 1233, Name: Cape
-ID: 1234, Name: Anniversary Balloons
-ID: 1235, Name: Velvet Rope Fence
-ID: 1236, Name: Red Carpet Path
-ID: 1237, Name: Seaweed
-ID: 1238, Name: Seaweed Soup
-ID: 1239, Name: Bush Devil Plush
-ID: 1240, Name: Camera Drone
-ID: 1241, Name: Frilly Plush
-ID: 1242, Name: Blue Hang Glider
-ID: 1243, Name: Pink Hang Glider
-ID: 1244, Name: Orange Hang Glider
-ID: 1245, Name: Purple Hang Glider
-ID: 1246, Name: Diggo Plush
-ID: 1247, Name: Gum Wood Market Stall
-ID: 1248, Name: Palm Wood Market Stall
-ID: 1249, Name: Gum Wood Arch
-ID: 1250, Name: Palm Wood Arch
-ID: 1251, Name: Hard Wood Arch
-ID: 1252, Name: Candelabra
-ID: 1253, Name: White Gala Dress
-ID: 1254, Name: Wide Palm Wood Bridge
-ID: 1255, Name: Pincher Plant Plush
-ID: 1256, Name: Fairy Light Wall
-ID: 1257, Name: Tuxedo Jacket
-ID: 1258, Name: Tuxedo Pants
-ID: 1259, Name: Tuxedo Shoes
-ID: 1260, Name: Vine Wall
-ID: 1261, Name: Statue
-ID: 1262, Name: Seamstress Dress
-ID: 1263, Name: Lab Coat
-ID: 1264, Name: Bouquet Pot
-ID: 1265, Name: Black Hood
-ID: 1266, Name: Ute
-ID: 1267, Name: Red Hood
-ID: 1268, Name: Tie Dye Pants
-ID: 1269, Name: Tie Dye Shirt
-ID: 1270, Name: Tie Dye Cap
-ID: 1271, Name: Sugar Cane Crate
-ID: 1272, Name: Cabbage Box
-ID: 1273, Name: Carrot Box
-ID: 1274, Name: Corn Box
-ID: 1275, Name: Kale Box
-ID: 1276, Name: Potato Box
-ID: 1277, Name: Bottled Brush Set
-ID: 1278, Name: Jelly Brew Set
-ID: 1279, Name: Cooked Meat Plate
-ID: 1280, Name: Cooked Drumstick Plate
-ID: 1281, Name: Lamington Plate
-ID: 1282, Name: Meat Pie Plate
-ID: 1283, Name: Wheat Crate
-ID: 1284, Name: Kanz Shirt
-ID: 1285, Name: Tomato Box
-ID: 1286, Name: Cheese Board
-ID: 1287, Name: Cooked Croco Meat Plate
-ID: 1288, Name: Pavlova Plate
-ID: 1289, Name: Quiche Plate
-ID: 1290, Name: Damper Plate
-ID: 1291, Name: Sausage Roll Plate
-ID: 1292, Name: Pastie Plate
-ID: 1293, Name: Fairy Bread Plate
-ID: 1294, Name: Egg Plate
-ID: 1295, Name: Fish And Chips Plate
-ID: 1296, Name: Fruit Salad Plate
-ID: 1297, Name: Garden Salad Plate
-ID: 1298, Name: Hearty Stew Plate
-ID: 1299, Name: Prime Roast Plate
-ID: 1300, Name: Onion Box
-ID: 1301, Name: Watermelon Box
-ID: 1302, Name: Pumpkin Box
-ID: 1303, Name: Food Modeller
-ID: 1304, Name: Flour Bag Stack
-ID: 1305, Name: Sugar Bag Stack
-ID: 1306, Name: Coffee Bag Stack
-ID: 1307, Name: Coffee Cup Set
-ID: 1308, Name: Wattle Tea Set
-ID: 1309, Name: Bottle Tea Set
-ID: 1310, Name: Mighty Spread Set
-ID: 1311, Name: Honey Set
-ID: 1312, Name: Apple Jam Set
-ID: 1313, Name: Lime Jam Set
-ID: 1314, Name: Banana Jam Set
-ID: 1315, Name: Quandong Jam Set
-ID: 1316, Name: River Reed Seed
-ID: 1317, Name: Register
-ID: 1318, Name: Green Bean Box
-ID: 1319, Name: Meat on a Stick Set
-ID: 1320, Name: Dagwood Dog Set
-ID: 1321, Name: Cherry Box
-ID: 1322, Name: Seaweed Soup Plate
-ID: 1323, Name: Paper Bag Hat
-ID: 1324, Name: Airport Deed
-ID: 1325, Name: Gum Wood Entrance Sign
-ID: 1326, Name: Palm Wood Entrance Sign
-ID: 1327, Name: Hard Wood Entrance Sign
-ID: 1328, Name: Rotary Clothesline
-ID: 1329, Name: Red Beach Chair
-ID: 1330, Name: Gum Log Stool
-ID: 1331, Name: Hard Wood Log Stool
-ID: 1332, Name: Palm Wood Log Stool
-ID: 1333, Name: Summer Lily Seed
-ID: 1334, Name: Indoor Summer Lily
-ID: 1335, Name: Jackaroo Wand
-ID: 1336, Name: Aquamarine Shard
-ID: 1337, Name: Floor Light
-ID: 1338, Name: Red Floor Light
-ID: 1339, Name: Green Floor Light
-ID: 1340, Name: Blue Floor Light
-ID: 1341, Name: White Throwing Disc
-ID: 1342, Name: Comp Fishing Rod
-ID: 1343, Name: Pirate Glider
-ID: 1344, Name: Pineapple
-ID: 1345, Name: Treasure Map
-ID: 1346, Name: Pilot Hat
-ID: 1347, Name: Pilot Shirt
-ID: 1348, Name: Pilot Pants
-ID: 1349, Name: Pilot Boots
-ID: 1350, Name: Red Spotty Dress
-ID: 1351, Name: Beach Straw Hat
-ID: 1352, Name: Ice Cream Maker
-ID: 1353, Name: Ice Cream
-ID: 1354, Name: Ice Cream Set
-ID: 1355, Name: Gum Wood Kitchen Cabinet
-ID: 1356, Name: Gum Wood Kitchen Sink
-ID: 1357, Name: Palm Wood Kitchen Cabinet
-ID: 1358, Name: Palm Wood Kitchen Sink
-ID: 1359, Name: White Strap Shoes
-ID: 1360, Name: Sand Castle
-ID: 1361, Name: Sand Bucket
-ID: 1362, Name: Interior Wall
-ID: 1363, Name: Sand Fence
-ID: 1364, Name: Player House 2
-ID: 1365, Name: Your House Deed 3
-ID: 1366, Name: Iron Wood Table
-ID: 1367, Name: Season-All
-ID: 1368, Name: Solar Panel
-ID: 1369, Name: Palm Wood Table
-ID: 1370, Name: Gum Wood Table
-ID: 1371, Name: Hard Wood Table
-ID: 1372, Name: Curtain Festoon
-ID: 1373, Name: Octagon Sign
-ID: 1374, Name: Garden Tap
-ID: 1375, Name: Floor Drain
-ID: 1376, Name: Picnic Basket
-ID: 1377, Name: Pink Holiday Shirt
-ID: 1378, Name: Purple Holiday Shirt
-ID: 1379, Name: Orange Holiday Shirt
-ID: 1380, Name: Green Holiday Shirt
-ID: 1381, Name: Green Holiday Shorts
-ID: 1382, Name: Orange Holiday Shorts
-ID: 1383, Name: Pink Holiday Shorts
-ID: 1384, Name: Purple Holiday Shorts
-ID: 1385, Name: Life Guard Hat
-ID: 1386, Name: Life Guard Shirt
-ID: 1387, Name: Life Guard Shorts
-ID: 1388, Name: Red Tile Path
-ID: 1389, Name: Purple Tile Path
-ID: 1390, Name: Yellow Tile Path
-ID: 1391, Name: Green Tile Path
-ID: 1392, Name: Orange Tile Path
-ID: 1393, Name: Pink Tile Path
-ID: 1394, Name: Blue Tile Path
-ID: 1395, Name: Black Tile Path
-ID: 1396, Name: White Tile Path
-ID: 1397, Name: Beach Bar
-ID: 1398, Name: Hay Bale
-ID: 1399, Name: Cooler
-ID: 1400, Name: Pineapple Box
-ID: 1401, Name: Big Fan Hand
-ID: 1402, Name: Gum Wood Pergola
-ID: 1403, Name: Palm Wood Pergola
-ID: 1404, Name: Hard Wood Pergola
-ID: 1405, Name: Bus Stop
-ID: 1406, Name: Red Beach Hammock
-ID: 1407, Name: Red Beach Umbrella
-ID: 1408, Name: Beetroot
-ID: 1409, Name: Flat Top Fence
-ID: 1410, Name: Beetroot Seeds
-ID: 1411, Name: Blue Beach Towel
-ID: 1412, Name: Green Beach Towel
-ID: 1413, Name: Red Beach Towel
-ID: 1414, Name: Green Beach Umbrella
-ID: 1415, Name: Blue Beach Umbrella
-ID: 1416, Name: White Hibiscus
-ID: 1417, Name: Purple Hibiscus
-ID: 1418, Name: Red Seaweed
-ID: 1419, Name: Dark Wood Kitchen Cabinet
-ID: 1420, Name: Dark Wood Kitchen Sink
-ID: 1421, Name: Green Beach Hammock
-ID: 1422, Name: Blue Beach Hammock
-ID: 1423, Name: Blue Beach Chair
-ID: 1424, Name: Green Beach Chair
-ID: 1425, Name: Arrow Light
-ID: 1426, Name: Clown Fish
-ID: 1427, Name: Gold Fish Trophy
-ID: 1428, Name: Silver Fish Trophy
-ID: 1429, Name: Bronze Fish Trophy
-ID: 1430, Name: Shark Egg
-ID: 1431, Name: Maggie Egg
-ID: 1432, Name: Waiting Chair
-ID: 1433, Name: Boarding Pass
-ID: 1434, Name: Alpha Trident
-ID: 1435, Name: Alpha Shark Tooth
-ID: 1436, Name: Coral Acacia Seed
-ID: 1437, Name: Fridge
-ID: 1438, Name: Blue Sun Glasses
-ID: 1439, Name: Green Sun Glasses
-ID: 1440, Name: Orange Sun Glasses
-ID: 1441, Name: Pink Sun Glasses
-ID: 1442, Name: Purple Sun Glasses
-ID: 1443, Name: Beach Ball
-ID: 1444, Name: Cup of Sunshine
-ID: 1445, Name: Tropical Grass Turf Roll
-ID: 1446, Name: Butterfly Perfume
-ID: 1447, Name: Beetroot Box
-ID: 1448, Name: Milk Set
-ID: 1449, Name: High Quality Milk Set
-ID: 1450, Name: Silver Pocket Watch
-ID: 1451, Name: Brain Coral
-ID: 1452, Name: Bird Nest Coral
-ID: 1453, Name: Blue Staghorn Coral
-ID: 1454, Name: Blue Table Coral Fragment
-ID: 1455, Name: Green Staghorn Coral
-ID: 1456, Name: Pink Coral
-ID: 1457, Name: Pink Table Coral Fragment
-ID: 1458, Name: Green Tube Coral
-ID: 1459, Name: Purple Spotty Dress
-ID: 1460, Name: Purple Strap Shoes
-ID: 1461, Name: Halo
-ID: 1462, Name: Humphead Wrasse
-ID: 1463, Name: Purple-Winged Mantis
-ID: 1464, Name: Blue Tiger Butterfly
-ID: 1465, Name: Common Crow Butterfly
-ID: 1466, Name: Shark Statue
-ID: 1467, Name: Seahorse
-ID: 1468, Name: Triton's Trumpet
-ID: 1469, Name: Sea Sponge
-ID: 1470, Name: Police Hat
-ID: 1471, Name: Police Pants
-ID: 1472, Name: Police Shirt
-ID: 1473, Name: Police Boots
-ID: 1474, Name: White Panel Wall
-ID: 1475, Name: Black Throwing Disc
-ID: 1476, Name: Blue Throwing Disc
-ID: 1477, Name: Green Throwing Disc
-ID: 1478, Name: Orange Throwing Disc
-ID: 1479, Name: Pink Throwing Disc
-ID: 1480, Name: Purple Throwing Disc
-ID: 1481, Name: Red Throwing Disc
-ID: 1482, Name: Blue Tang
-ID: 1483, Name: Yellow Tang
-ID: 1484, Name: Festive Roo Plush
-ID: 1485, Name: Wheezing Shirt
-ID: 1486, Name: Festive Table
-ID: 1487, Name: Festive Festoon
-ID: 1488, Name: Cardboard Box
-ID: 1489, Name: Coconut Drink Set
-ID: 1490, Name: Festive Lamp
-ID: 1491, Name: Coconut Drink
-ID: 1492, Name: Plastic Chair
-ID: 1493, Name: Festive Pole
-ID: 1494, Name: Cooked Prawn
-ID: 1495, Name: Cooked Prawn Plate
-ID: 1496, Name: Red Festive Sweater
-ID: 1497, Name: Festive Chair
-ID: 1498, Name: Light Arch
-ID: 1499, Name: Festive Gifts
-ID: 1500, Name: Green Festive Sweater
-ID: 1501, Name: Spag Bol
-ID: 1502, Name: Cheesy Spag
-ID: 1503, Name: Spag Bol Plate
-ID: 1504, Name: Cheese Spag Plate
-ID: 1505, Name: Jam Toast
-ID: 1506, Name: Croco Skewer
-ID: 1507, Name: Scones
-ID: 1508, Name: Burger
-ID: 1509, Name: Lot Burger
-ID: 1510, Name: Dunny
-ID: 1511, Name: Jam Toast Plate
-ID: 1512, Name: Scones Plate
-ID: 1513, Name: Croco Skewer Set
-ID: 1514, Name: Burger Plate
-ID: 1515, Name: Lot Burger Plate
-ID: 1516, Name: Watermelon Popsicle
-ID: 1517, Name: Advanced Crafting Table
-ID: 1518, Name: Advanced Cooking Table
-ID: 1519, Name: Sparkin' Soup
-ID: 1520, Name: Water Melon Popsicle Set
-ID: 1521, Name: Sparkin' Soup Plate
-ID: 1522, Name: Crab Soup
-ID: 1523, Name: Parmy and Chips
-ID: 1524, Name: Parmi and Chips Plate
-ID: 1525, Name: Crab Soup Plate
-ID: 1526, Name: Yellow Morel
-ID: 1527, Name: Slippery Jack
-ID: 1528, Name: Field Mushroom
-ID: 1529, Name: Milk Cap
-ID: 1530, Name: Hand Trolley
-ID: 1531, Name: Cooked Yabbie Plate
-ID: 1532, Name: Cooked Yabbie
-ID: 1533, Name: Red Roundhead
-ID: 1534, Name: Slippery Jack Stool
-ID: 1535, Name: Field Mushroom Lamp
-ID: 1536, Name: Slippery Jack Lamp
-ID: 1537, Name: Red Roundhead Lamp
-ID: 1538, Name: Yellow Morel Lamp
-ID: 1539, Name: Milk Cap Lamp
-ID: 1540, Name: Mushroom Soup
-ID: 1541, Name: Cooked Mushroom
-ID: 1542, Name: Field Mushroom Basket
-ID: 1543, Name: Milk Cap Basket
-ID: 1544, Name: Slippery Jack Basket
-ID: 1545, Name: Yellow Morel Basket
-ID: 1546, Name: Roundhead Basket
-ID: 1547, Name: Field Mushroom Stool
-ID: 1548, Name: Milk Cap Stool
-ID: 1549, Name: Roundhead Stool
-ID: 1550, Name: Yellow Morel Stool
-ID: 1551, Name: Mushroom Soup Plate
-ID: 1552, Name: Toffee
-ID: 1553, Name: Toffee Plate
-ID: 1554, Name: Pumpkin Soup
-ID: 1555, Name: Pumpkin Soup Plate
-ID: 1556, Name: Balloon Sword
-ID: 1557, Name: Battle Broom
-ID: 1558, Name: Blastoad
-ID: 1559, Name: Plat Pie
-ID: 1560, Name: Toilet
-ID: 1561, Name: Bath Tub
-ID: 1562, Name: Charcoal Wall
-ID: 1563, Name: Pastel Blue Wall
-ID: 1564, Name: Pastel Green Wall
-ID: 1565, Name: Pastel Grey Wall
-ID: 1566, Name: Pastel Orange Wall
-ID: 1567, Name: Pastel Pink Wall
-ID: 1568, Name: Pastel Purple Wall
-ID: 1569, Name: Pastel Red Wall
-ID: 1570, Name: Light Room Divider
-ID: 1571, Name: Eastern Room Divider
-ID: 1572, Name: Rattan Room Divider
-ID: 1573, Name: Mummy Boots
-ID: 1574, Name: Mummy Hood
-ID: 1575, Name: Mummy Pants
-ID: 1576, Name: Mummy Shirt
-ID: 1577, Name: Orange And Grey Jumper
-ID: 1578, Name: White Hoodie
-ID: 1579, Name: White Comfy Shoes
-ID: 1580, Name: Black Hoodie
-ID: 1581, Name: Black Comfy Shoes
-ID: 1582, Name: Black Sweat Pants
-ID: 1583, Name: Orange Hoodie
-ID: 1584, Name: Orange Comfy Shoes
-ID: 1585, Name: Orange Sweat Pants
-ID: 1586, Name: Black And White Scarf
-ID: 1587, Name: Pink Hoodie
-ID: 1588, Name: Pink Comfy Shoes
-ID: 1589, Name: Pink Sweat Pants
-ID: 1590, Name: Green Hoodie
-ID: 1591, Name: Green Comfy Shoes
-ID: 1592, Name: Green Sweat Pants
-ID: 1593, Name: Blue Hoodie
-ID: 1594, Name: Blue Comfy Shoes
-ID: 1595, Name: Blue Sweat Pants
-ID: 1596, Name: Purple Hoodie
-ID: 1597, Name: Purple Comfy Shoes
-ID: 1598, Name: Purple Sweat Pants
-ID: 1599, Name: Red Hoodie
-ID: 1600, Name: Red Comfy Shoes
-ID: 1601, Name: Red Sweat Pants
-ID: 1602, Name: Yellow Hoodie
-ID: 1603, Name: Yellow Comfy Shoes
-ID: 1604, Name: Yellow Sweat Pants
-ID: 1605, Name: Black Scarf
-ID: 1606, Name: Grey Scarf
-ID: 1607, Name: Patterned Scarf
-ID: 1608, Name: Red and Black Scarf
-ID: 1609, Name: Gum Log Seat
-ID: 1610, Name: Dark Room Divider
-ID: 1611, Name: Office Divider
-ID: 1612, Name: Galaxy Glider
-ID: 1613, Name: Galaxy Hood
-ID: 1614, Name: Meteorite Chunk
-ID: 1615, Name: Star Sabre
-ID: 1616, Name: Yellow Stripe Jumper
-ID: 1617, Name: Charcoal Tights
-ID: 1618, Name: Green Stripe Jumper
-ID: 1619, Name: Grey Tights
-ID: 1620, Name: Blue Stripe Jumper
-ID: 1621, Name: White Tights
-ID: 1622, Name: Guest House Level 2
-ID: 1623, Name: Guest House Deed
-ID: 1624, Name: Guest House 2 Level 2
-ID: 1625, Name: Guest House Deed
-ID: 1626, Name: Guest House 2 Level 2
-ID: 1627, Name: Guest House Deed
-ID: 1628, Name: Ride On Lawn Mower
-ID: 1629, Name: Interior Doorway
-ID: 1630, Name: Interior Half Wall
-ID: 1631, Name: Fish Pond
-ID: 1632, Name: Fish Roe
-ID: 1633, Name: Rice Seed
-ID: 1634, Name: Rice
-ID: 1635, Name: Caviar
-ID: 1636, Name: Cooked Rice
-ID: 1637, Name: Egg Fried Rice
-ID: 1638, Name: Rice Bag Stack
-ID: 1639, Name: Egg Fried Rice Plate
-ID: 1640, Name: Caviar Set
-ID: 1641, Name: Cooked Rice Set
-ID: 1642, Name: Roe Nigiri
-ID: 1643, Name: Roe Nigiri Plate
-ID: 1644, Name: Crude Ladder
-ID: 1645, Name: Vine Lattice Ladder
-ID: 1646, Name: Creeping Vine
-ID: 1647, Name: Gum Wood Ladder
-ID: 1648, Name: Hard Wood Ladder
-ID: 1649, Name: Palm Wood Ladder
-ID: 1650, Name: Iron Ladder
-ID: 1651, Name: Rope Ladder
-ID: 1652, Name: Green Wood Floor
-ID: 1653, Name: Cabin Wall
-ID: 1654, Name: Rainbow Fish
-ID: 1655, Name: Lionfish
-ID: 1656, Name: Tiger Beetle
-ID: 1657, Name: Grass Tree Seed Pod
-ID: 1658, Name: Grass Tree Seed
-ID: 1659, Name: Cabin Stool
-ID: 1660, Name: Cabin Chair
-ID: 1661, Name: Cabin Seat
-ID: 1662, Name: Cabin Couch
-ID: 1663, Name: Cabin Bed
-ID: 1664, Name: Old Table
-ID: 1665, Name: Cabin Coffee Table
-ID: 1666, Name: Cabin Drawers
-ID: 1667, Name: Cabin Kitchen Table
-ID: 1668, Name: Cabin Cabinet
-ID: 1669, Name: Mushroom Risotto
-ID: 1670, Name: Mushroom Risotto Plate
-ID: 1671, Name: Insta-Grow
-ID: 1672, Name: Old Wood Fence
-ID: 1673, Name: Old Wood Lamp Post
-ID: 1674, Name: Natural Path
-ID: 1675, Name: Gravel Pathway
-ID: 1676, Name: Auto Sorter
-ID: 1677, Name: Wrought Iron Fence
-ID: 1678, Name: Wrought Iron Lamp
-ID: 1679, Name: Wrought Iron Bench
-ID: 1680, Name: Wrought Iron Gate
-ID: 1681, Name: Cabin Bedside Table
-ID: 1682, Name: Cabin Bunk Bed
-ID: 1683, Name: Old Gizmo
-ID: 1684, Name: Smooth Cement Path
-ID: 1685, Name: Honeycomb
-ID: 1686, Name: Wish Fountain Deed
-ID: 1687, Name: Tin Flower Bed
-ID: 1688, Name: Pin Wheel
-ID: 1689, Name: White Diamond Kite
-ID: 1690, Name: Black Diamond Kite
-ID: 1691, Name: Blue Diamond Kite
-ID: 1692, Name: Green Diamond Kite
-ID: 1693, Name: Orange Diamond Kite
-ID: 1694, Name: Pink Diamond Kite
-ID: 1695, Name: Purple Diamond Kite
-ID: 1696, Name: Red Diamond Kite
-ID: 1697, Name: Yellow Diamond Kite
-ID: 1698, Name: White Box Kite
-ID: 1699, Name: Black Box Kite
-ID: 1700, Name: Blue Box Kite
-ID: 1701, Name: Green Box Kite
-ID: 1702, Name: Orange Box Kite
-ID: 1703, Name: Pink Box Kite
-ID: 1704, Name: Purple Box Kite
-ID: 1705, Name: Red Box Kite
-ID: 1706, Name: Yellow Box Kite
-ID: 1707, Name: White Sled Kite
-ID: 1708, Name: Black Sled Kite
-ID: 1709, Name: Blue Sled Kite
-ID: 1710, Name: Green Sled Kite
-ID: 1711, Name: Orange Sled Kite
-ID: 1712, Name: Pink Sled Kite
-ID: 1713, Name: Purple Sled Kite
-ID: 1714, Name: Red Sled Kite
-ID: 1715, Name: Yellow Sled Kite
-ID: 1716, Name: Kite Kit
-ID: 1717, Name: Glitter Ball
-ID: 1718, Name: Search Light
-ID: 1719, Name: Aurora Shirt
-ID: 1720, Name: Aurora Baseball Cap
-ID: 1721, Name: Moon Lamp
-ID: 1722, Name: Star Wall
-ID: 1723, Name: Sky Fest Prize Ticket
-ID: 1724, Name: Foil Hat
-ID: 1725, Name: Star Carpet Path
-ID: 1726, Name: Star Fence
-ID: 1727, Name: Star Balloon
-ID: 1728, Name: Har-Vac
-ID: 1729, Name: Empty Har-Vac
-ID: 1730, Name: Cockatoo Plush
-ID: 1731, Name: Vombat Plush
-ID: 1732, Name: Wary Mu Plush
-ID: 1733, Name: Shark Plush
-ID: 1734, Name: Party Hat
-ID: 1735, Name: Flower Crown
-ID: 1736, Name: Snow Ball
-ID: 1737, Name: Ice Seat
-ID: 1738, Name: Ice Sculpture
-ID: 1739, Name: Ice Path
-ID: 1740, Name: Ice Lamp
-ID: 1741, Name: Snow Hood
-ID: 1742, Name: Ice Table
-ID: 1743, Name: Ice Ottoman
-ID: 1744, Name: Ice Chest
-ID: 1745, Name: Flame Jelly Bed
-ID: 1746, Name: Iron Lantern
-ID: 1747, Name: Black Marble Path
-ID: 1748, Name: Flame Glider
-ID: 1749, Name: Flame Jelly
-ID: 1750, Name: Berkonium Wand
-ID: 1751, Name: Bush Devil Hood
-ID: 1752, Name: Pickaxe Axe
-ID: 1753, Name: Ice Sculpting Table
-ID: 1754, Name: Perfect Ruby
-ID: 1755, Name: Perfect Emerald
-ID: 1756, Name: Perfect Aquamarine
-ID: 1757, Name: Ice Hammer
-ID: 1758, Name: Flame Jelly Hood
-ID: 1759, Name: Ice Fence
-ID: 1760, Name: Tree Pinchers
-ID: 1761, Name: Tele-Jumper
-ID: 1762, Name: Key Cutter
-ID: 1763, Name: Swag Pack
-ID: 1764, Name: Flame Spear
-ID: 1765, Name: Hard Wood Tool Rack
-ID: 1766, Name: Gum Wood Tool Rack
-ID: 1767, Name: Palm Wood Tool Rack
-ID: 1768, Name: Mannequin
-ID: 1769, Name: Fake Goatee
-ID: 1770, Name: Floor Plaque
-ID: 1771, Name: Director Chair
-ID: 1772, Name: Lil' Top Hat
-ID: 1773, Name: Red Hair Bow
-ID: 1774, Name: Slippers
-ID: 1775, Name: Pajama Pants
-ID: 1776, Name: Pajama Shirt
-ID: 1777, Name: Sleeping Cap
-ID: 1778, Name: Sleeping Mask
-ID: 1779, Name: Villain Mustache
-ID: 1780, Name: Heart  Sun Glasses
-ID: 1781, Name: Raggy Shirt
-ID: 1782, Name: Raggy Pants
-ID: 1783, Name: Raggy Sneakers
-ID: 1784, Name: Green Renaissance Dress
-ID: 1785, Name: Red Renaissance Dress
-ID: 1786, Name: Black Renaissance Dress
-ID: 1787, Name: Brown Apron Dress
-ID: 1788, Name: Horn Helmet
-ID: 1789, Name: Blue Hair Bow
-ID: 1790, Name: Purple Hair Bow
-ID: 1791, Name: Yellow Hair Bow
-ID: 1792, Name: Concierge Jacket
-ID: 1793, Name: Concierge Hat
-ID: 1794, Name: Purple Cap
-ID: 1795, Name: Black Flats
-ID: 1796, Name: Yellow Flats
-ID: 1797, Name: Cool Cap
-ID: 1798, Name: Hazmat Shirt
-ID: 1799, Name: Hazmat Pants
-ID: 1800, Name: Hazmat Hood
-ID: 1801, Name: Hazmat Shoes
-ID: 1802, Name: Blue Vintage Dress
-ID: 1803, Name: Green Vintage Dress
-ID: 1804, Name: Black Victorian Dress
-ID: 1805, Name: Green Victorian Dress
-ID: 1806, Name: Red Victorian Dress
-ID: 1807, Name: Black Victorian Bonnet
-ID: 1808, Name: Green Victorian Bonnet
-ID: 1809, Name: Red Victorian Bonnet
-ID: 1810, Name: Green Victorian Jacket
-ID: 1811, Name: Cream Victorian Pants
-ID: 1812, Name: Brown Victorian Boots
-ID: 1813, Name: Purple Bucket Hat
-ID: 1814, Name: Black Bucket Hat
-ID: 1815, Name: Black Victorian Pants
-ID: 1816, Name: Black Victorian Jacket
-ID: 1817, Name: Black Victorian Boots
-ID: 1818, Name: Red Victorian Jacket
-ID: 1819, Name: White Victorian Boots
-ID: 1820, Name: White Victorian Pants
-ID: 1821, Name: Raggy Dress
-ID: 1822, Name: Brown Tights
-ID: 1823, Name: Antique Desk
-ID: 1824, Name: Cactus Pot
-ID: 1825, Name: Display Case
-ID: 1826, Name: Kitchen Island
-ID: 1827, Name: Dark Wood Kitchen Island
-ID: 1828, Name: Gum Kitchen Island
-ID: 1829, Name: Palm Kitchen Island
-ID: 1830, Name: Palm Wood Double Gate
-ID: 1831, Name: Gum Wood Double Gate
-ID: 1832, Name: Hard Wood Double Gate
-ID: 1833, Name: Tin Double Gate
-ID: 1834, Name: Milk Crate Chair
-ID: 1835, Name: Milk Crate Coffee Table
-ID: 1836, Name: Milk Crate Bookshelf
-ID: 1837, Name: Milk Crate Bed
-ID: 1838, Name: Cement Bridge
-ID: 1839, Name: Wide Cement Bridge
-ID: 1840, Name: Blue Bandana
-ID: 1841, Name: Black Bandana
-ID: 1842, Name: Green Bandana
-ID: 1843, Name: Orange Bandana
-ID: 1844, Name: Red Bandana
-ID: 1845, Name: Glass Fence
-ID: 1846, Name: Black Hair Bow
-ID: 1847, Name: White Hair Bow
-ID: 1848, Name: Pink Hair Bow
-ID: 1849, Name: Green Hair Bow
-ID: 1850, Name: Pincher Hood
-ID: 1851, Name: Pincher Plant Statue
-ID: 1852, Name: Iron Bridge
-ID: 1853, Name: Wide Iron Bridge
-ID: 1854, Name: Gumleaf Grasshopper
-ID: 1855, Name: Cicada
-ID: 1856, Name: Empire Gudgeon
-ID: 1857, Name: Rock Oyster
-ID: 1858, Name: Nudibranch
-ID: 1859, Name: Display Pedestal
-ID: 1860, Name: Impostor Ball
-ID: 1861, Name: Stack of Papers
-ID: 1862, Name: Blue-ringed Octopus
-ID: 1863, Name: Inverse Corner Ramp
-ID: 1864, Name: Go-Go Clock
-ID: 1865, Name: Go-Go Statue
-ID: 1866, Name: Go-Go Lantern
-ID: 1867, Name: Go-Go Phone Booth
-ID: 1868, Name: Go-Go Wiggly Friend
-ID: 1869, Name: Gonut
-ID: 1870, Name: Fried Gonut
-ID: 1871, Name: Go-Go Trike
-ID: 1872, Name: Gonut Box
-ID: 1873, Name: Go-Go Pet Rock
-ID: 1874, Name: Go-Go Trinket
-ID: 1875, Name: Bird Bill
-ID: 1876, Name: Camping Chair
-ID: 1877, Name: Hip-Hop Cassette
-ID: 1878, Name: Bug Terrarium
-ID: 1879, Name: Pop Cassette
-ID: 1880, Name: Rock Cassette
-ID: 1881, Name: Blues Cassette
-ID: 1882, Name: Town Bell
-ID: 1883, Name: Animal Brush
-ID: 1884, Name: Plane
-ID: 1885, Name: Cocoon
-ID: 1886, Name: Silk
-ID: 1887, Name: Rental Sign
-ID: 1888, Name: Tin Pergola
-ID: 1889, Name: Cloth Pergola
-ID: 1890, Name: Brick Pergola
-ID: 1891, Name: Gold Nugget
-ID: 1892, Name: Gold Ore
-ID: 1893, Name: Leather Seat
-ID: 1894, Name: Leather Couch
-ID: 1895, Name: Guest House Deed
-ID: 1896, Name: Guest House 4 Level 2
-ID: 1897, Name: Guest House Deed
-ID: 1898, Name: Gum Mirror Stand
-ID: 1899, Name: Mirror Stand
-ID: 1900, Name: Palm Mirror Stand
-ID: 1901, Name: Basin
-ID: 1902, Name: Wrought Iron Table
-ID: 1903, Name: Wrought Iron Chair
-ID: 1904, Name: Creepy Cassette
-ID: 1905, Name: Dreary Cassette
-ID: 1906, Name: Experimental Cassette
-ID: 1907, Name: Country Cassette
-ID: 1908, Name: Shopping Cassette
-ID: 1909, Name: Old Cassette
-ID: 1910, Name: Golden Cassette
-ID: 1911, Name: Chill Cassette
-ID: 1912, Name: Smooth Cassette
-ID: 1913, Name: Dinner Cassette
-ID: 1914, Name: Ambient Cassette
-ID: 1915, Name: Map Table
-ID: 1916, Name: Wide Bookshelf
-ID: 1917, Name: Dark Wooden Chest Of Drawers
-ID: 1918, Name: Barbed Wire Fence
-ID: 1919, Name: Board Fence
-ID: 1920, Name: Road Lamp
-ID: 1921, Name: Rope Bridge
-ID: 1922, Name: Inflatable Pool
-ID: 1923, Name: Bin Chook Statue
-ID: 1924, Name: Gold Crown
-ID: 1925, Name: Royal Crown
-ID: 1926, Name: Mighty Sandwich
-ID: 1927, Name: Mighty Sandwich Plate
-ID: 1928, Name: Wide Rope Bridge
-ID: 1929, Name: Doggo Bowl
-ID: 1930, Name: Basalt
-ID: 1931, Name: Animal Shower
-ID: 1932, Name: Black Raglan Sleeve
-ID: 1933, Name: Blue Raglan Sleeve
-ID: 1934, Name: Green Raglan Sleeve
-ID: 1935, Name: Orange Raglan Sleeve
-ID: 1936, Name: Pink Raglan Sleeve
-ID: 1937, Name: Purple Raglan Sleeve
-ID: 1938, Name: Red Raglan Sleeve
-ID: 1939, Name: Yellow Raglan Sleeve
-ID: 1940, Name: Black Capri Pants
-ID: 1941, Name: Blue Capri Pants
-ID: 1942, Name: Green Capri Pants
-ID: 1943, Name: Orange Capri Pants
-ID: 1944, Name: Pink Capri Pants
-ID: 1945, Name: Purple Capri Pants
-ID: 1946, Name: Red Capri Pants
-ID: 1947, Name: Yellow Capri Pants
-ID: 1948, Name: Medieval Helmet
-ID: 1949, Name: Medieval Breastplate
-ID: 1950, Name: Medieval Leggings
-ID: 1951, Name: Medieval Boots
-ID: 1952, Name: Gold Bar
-ID: 1953, Name: Battle Fish
-ID: 1954, Name: Battlegrounds Hat
-ID: 1955, Name: Battlegrounds Shirt
-ID: 1956, Name: Battlegrounds Pants
-ID: 1957, Name: Battlegrounds Shoes
-ID: 1958, Name: Macquarie Perch
-ID: 1959, Name: Spotted Handfish
-ID: 1960, Name: Lungfish
-ID: 1961, Name: Bone Shirt
-ID: 1962, Name: Bone Pants
-ID: 1963, Name: Bone Shoes
-ID: 1964, Name: Hoop Earrings
-ID: 1965, Name: Nose Ring
-ID: 1966, Name: Nose Bandage
-ID: 1967, Name: Ruby Earrings
-ID: 1968, Name: Emerald Earrings
-ID: 1969, Name: Aquamarine Earrings
-ID: 1970, Name: Mystery Bag
-ID: 1971, Name: Paper Hat
-ID: 1972, Name: Blistering Bottlew
-ID: 1973, Name: Opal Earrings
-ID: 1974, Name: Leather Bench
-ID: 1975, Name: Pearl Earrings
-ID: 1976, Name: Glowing Mushroom Pot
-ID: 1977, Name: Giant Bat Wings
-ID: 1978, Name: Glowing Hang Glider
-ID: 1979, Name: Giant Feather Wings
-ID: 1980, Name: Bone Mask
-ID: 1981, Name: Floor Candelabra
-ID: 1982, Name: Fiery Halo
-ID: 1983, Name: Die
-ID: 1984, Name: Glowing Slab
-ID: 1985, Name: Face Bandage
-ID: 1986, Name: Glowing Box
-ID: 1987, Name: Glowing Path
-ID: 1988, Name: Glowing Pickaxe
-ID: 1989, Name: Glowing Axe
-ID: 1990, Name: Wind Chime
-ID: 1991, Name: Glowing Dress
-ID: 1992, Name: Blue Coat
-ID: 1993, Name: Orange Coat
-ID: 1994, Name: Orange Ripped Jeans
-ID: 1995, Name: Green Holiday Hat
-ID: 1996, Name: Orange Holiday Hat
-ID: 1997, Name: Pink Holiday Hat
-ID: 1998, Name: Purple Holiday Hat
-ID: 1999, Name: Glowing Coat
-ID: 2000, Name: Red Slip Dress
-ID: 2001, Name: Retro Sweater
-ID: 2002, Name: Glowing Glasses
-ID: 2003, Name: Wooden Swing Set
-ID: 2004, Name: Green Slip Dress
-ID: 2005, Name: Yellow Slip Dress
-ID: 2006, Name: Hanging Planter
-ID: 2007, Name: Native Bread
-ID: 2008, Name: Earth Worms
-ID: 2009, Name: Railway Track
-ID: 2010, Name: Curved Railway Track
-ID: 2011, Name: Train
-ID: 2012, Name: Railway Bridge
-ID: 2013, Name: Train Car
-ID: 2014, Name: Domesti-Crate
-ID: 2015, Name: Auto Placer
-ID: 2016, Name: Pretty Pebble
-ID: 2017, Name: Egg Incubator
-ID: 2018, Name: Duff Dust
-ID: 2019, Name: Fertilised Chicken Egg
-ID: 2020, Name: Conductor Shirt
-ID: 2021, Name: Conductor Pants
-ID: 2022, Name: Conductor Cap
-ID: 2023, Name: Pineapple Jam
-ID: 2024, Name: Pineapple Jam Set
-ID: 2025, Name: Critter Book
-ID: 2026, Name: Matching Steps
-ID: 2027, Name: Servo
-ID: 2028, Name: Penguin Plush
-ID: 2029, Name: Smooth Black Path
-ID: 2030, Name: Smooth Blue Path
-ID: 2031, Name: Smooth Green Path
-ID: 2032, Name: Smooth Orange Path
-ID: 2033, Name: Smooth Pink Path
-ID: 2034, Name: Smooth Purple Path
-ID: 2035, Name: Smooth Red Path
-ID: 2036, Name: Smooth White Path
-ID: 2037, Name: Smooth Yellow Path
-ID: 2038, Name: Cork Hat
-ID: 2039, Name: Loop Fence
-ID: 2040, Name: Bright Gravel Pathway
-ID: 2041, Name: Pleep Plush
-ID: 2042, Name: Disguise Glasses
-ID: 2043, Name: Oval Sunnies
-ID: 2044, Name: Cat Ears
-ID: 2045, Name: Vine Pergola
-ID: 2046, Name: Marble Pergola
-ID: 2047, Name: Bin Chook Plush
-ID: 2048, Name: Pencil Cup
-ID: 2049, Name: Chopping Board
-ID: 2050, Name: Toy Ute
-ID: 2051, Name: Votive Candle
-ID: 2052, Name: White Cushion Stack
-ID: 2053, Name: Blue Cushion Stack
-ID: 2054, Name: Red Cushion Stack
-ID: 2055, Name: Switch Railway Track
-ID: 2056, Name: Old Bowser
-ID: 2057, Name: Green Sleeveless Dress
-ID: 2058, Name: Dark Cottage Shoes
-ID: 2059, Name: White Sleeveless Dress
-ID: 2060, Name: Brown Cottage Shoes
-ID: 2061, Name: Red Bow Dress
-ID: 2062, Name: Yellow Item Sign
-ID: 2063, Name: Blue Sign
-ID: 2064, Name: White Sign
-ID: 2065, Name: Yellow Bow Dress
-ID: 2066, Name: Pink Petal Dress
-ID: 2067, Name: Green Petal Dress
-ID: 2068, Name: Purple Petal Dress
-ID: 2069, Name: Arch Fence
-ID: 2070, Name: Wheelie Bin
-ID: 2071, Name: Blue Carpet Path
-ID: 2072, Name: Blue Belt Fence
-ID: 2073, Name: Fairy Light Pergola
-ID: 2074, Name: Fish Berley Box
-ID: 2075, Name: Boaricoot Whistle
-ID: 2076, Name: Sport Helmet
-ID: 2077, Name: Improved Stone Grinder
-ID: 2078, Name: Yellow Single Person Tent
-ID: 2079, Name: Blue Single Person Tent
-ID: 2080, Name: Green Single Person Tent
-ID: 2081, Name: Tyre Planter
-ID: 2082, Name: Tyre Bench
-ID: 2083, Name: White Brick Path
-ID: 2084, Name: Black Pastel Floor
-ID: 2085, Name: Blue Pastel Floor
-ID: 2086, Name: Brown Pastel Floor
-ID: 2087, Name: Green Pastel Floor
-ID: 2088, Name: Orange Pastel Floor
-ID: 2089, Name: Pink Pastel Floor
-ID: 2090, Name: Purple Pastel Floor
-ID: 2091, Name: Red Pastel Floor
-ID: 2092, Name: White Pastel Floor
-ID: 2093, Name: Yellow Pastel Floor
-ID: 2094, Name: White Brick Flower Bed
-ID: 2095, Name: Black Cattleman Hat
-ID: 2096, Name: White Cattleman Hat
-ID: 2097, Name: Bowler Hat
-ID: 2098, Name: Shovel of Pebbles
-ID: 2099, Name: Magenta Pig Face
-ID: 2100, Name: Saltbush Seed
-ID: 2101, Name: Lighthouse
-ID: 2102, Name: Spear Grass Seed
-ID: 2103, Name: Pearl Bluebush Seed
-ID: 2104, Name: Encyclopedia
-ID: 2105, Name: Mallee Gumnut
-ID: 2106, Name: Burger Pack
-ID: 2107, Name: Jackaroo Pack
-ID: 2108, Name: Crate Pack
-ID: 2109, Name: Flame Jelly Pack
-ID: 2110, Name: Boombox Pack
-ID: 2111, Name: Messenger Pack
-ID: 2112, Name: Guitar Pack
-ID: 2113, Name: Bum Bag Pack
-ID: 2114, Name: Hard Pack
-ID: 2115, Name: Handbag Pack
-ID: 2116, Name: Tote Pack
-ID: 2117, Name: Hunter's Stool
-ID: 2118, Name: Scooter
-ID: 2119, Name: Secateurs
-ID: 2120, Name: Black Pocket Watch
-ID: 2121, Name: Hunter's Helmet
-ID: 2122, Name: Alpha Plant Hammer
-ID: 2123, Name: White Pig Face
-ID: 2124, Name: Red Pig Face
-ID: 2125, Name: Tome of Wounding
-ID: 2126, Name: Airship Souvenir
-ID: 2127, Name: Lighthouse Souvenir
-ID: 2128, Name: Shark Statue Souvenir
-ID: 2129, Name: Orb of Stars
-ID: 2130, Name: Invisible Glider
-ID: 2131, Name: Copy Pad
-ID: 2132, Name: Auto Animal Trap
-ID: 2133, Name: Alpha Battle Fish
-ID: 2134, Name: Camera Pack
-ID: 2135, Name: Medkit
+| Item Id | Item Description |
+|--|--|
+|    0 | Basic Axe |
+|    1 | Megaphone |
+|    2 | Bug Net |
+|    3 | Chainsaw |
+|    4 | Fishing Rod |
+|    5 | Shovel of Dirt |
+|    6 | Shovel |
+|    7 | Hoe |
+|    8 | Basic Pickaxe |
+|    9 | Torch |
+|   10 | Basic Watering Can |
+|   11 | Wooden Bat |
+|   12 | Bag of Cement |
+|   13 | BBQ |
+|   14 | Bone |
+|   15 | Brick Path |
+|   16 | Brick Steps |
+|   17 | Bush Lime |
+|   18 | Camp Fire |
+|   19 | Cooked Meat |
+|   20 | Funnel Web Spider |
+|   21 | Raw Meat |
+|   22 | Nails |
+|   23 | Shiny Stone |
+|   24 | Cooking Kettle |
+|   25 | Garden Light |
+|   26 | Stone |
+|   27 | Stone Grinder |
+|   28 | Sugar Cane |
+|   29 | Ulysses Butterfly |
+|   30 | Wooden Crate |
+|   31 | Corner Ramp |
+|   32 | Palm Wood Fence |
+|   33 | Gum Log |
+|   34 | Wooden Torch |
+|   35 | Crafting Lab Deed |
+|   36 | Your House Deed |
+|   37 | Post Office Deed |
+|   38 | PowerLine |
+|   39 | Shop Deed |
+|   40 | Aussie Hat |
+|   41 | Black Boots |
+|   42 | Blue Jeans |
+|   43 | Tradie Boots |
+|   44 | Tradie Pants |
+|   45 | Dark Shorts |
+|   46 | Purple Shirt |
+|   47 | Red Flanney |
+|   48 | Barcoo Grunter |
+|   49 | Barramundi |
+|   50 | River Bass |
+|   51 | Hand Bell |
+|   52 | Jungle Perch |
+|   53 | Purple Armchair |
+|   54 | Wooden Double Bed |
+|   55 | Coffee Table |
+|   56 | Wooden Chair |
+|   57 | Wooden Couch |
+|   58 | Small Round Table |
+|   59 | Dark Wood Cabinet |
+|   60 | Sugar Cane Seeds |
+|   61 | Dog Hat |
+|   62 | Holiday Hat |
+|   63 | Blue Beanie |
+|   64 | Top Hat |
+|   65 | Red Baseball Cap |
+|   66 | Yellow Bucket Hat |
+|   67 | Welcome sign |
+|   68 | Business Pants |
+|   69 | Business Shirt |
+|   70 | Business Shoes |
+|   71 | Green Pants |
+|   72 | Green Sweater |
+|   73 | Green Shoes |
+|   74 | Blue Holiday Shirt |
+|   75 | Thongs |
+|   76 | Blue Holiday Shorts |
+|   77 | Tradie Shirt |
+|   78 | Khaki Boots |
+|   79 | Khaki Shorts |
+|   80 | Khaki Shirt |
+|   81 | Clothing Shop Deed |
+|   82 | Blue Shorts |
+|   83 | Blue and Yellow Shirt |
+|   84 | Red Sneakers |
+|   85 | Blue Dress |
+|   86 | Fairest Dress |
+|   87 | White Flats |
+|   88 | Mustard Coat |
+|   89 | White Sneakers |
+|   90 | Ripped Jeans |
+|   91 | White Dress |
+|   92 | White Flats |
+|   93 | Red Dress |
+|   94 | Red Flats |
+|   95 | Pin Stripe Jacket |
+|   96 | Pin Stripe Pants |
+|   97 | Grass Hopper |
+|   98 | Common Blue Tail |
+|   99 | Pontoon Bridge |
 
+|  100 | Fly
+|  101 | Cockroach
+|  102 | Yellow Wattle Flower
+|  103 | Metal Detector
+|  104 | Opal
+|  105 | Copper Ore
+|  106 | Iron Ore
+|  107 | Quartz Crystal
+|  108 | Peacock Spider
+|  109 | Trogid
+|  110 | Street Lamp
+|  111 | Cabbage
+|  112 | Cabbage Seeds
+|  113 | Iron Bar
+|  114 | Copper Bar
+|  115 | Furnace
+|  116 | Carrot
+|  117 | Carrot Seeds
+|  118 | Thunderbox
+|  119 | First Aid Kit
+|  120 | Green Beanie
+|  121 | Red Beanie
+|  122 | Blue Bucket Hat
+|  123 | Corn
+|  124 | Corn Seeds
+|  125 | Plant Shop Deed
+|  126 | ADM
+|  127 | Dark Wooden Single Bed
+|  128 | Basic Watering Can
+|  129 | Mine Deed
+|  130 | Miners Helmet
+|  131 | Wooden Chair
+|  132 | Wooden Table
+|  133 | Wooden Bedside Table
+|  134 | Wooden Chest Of Drawers
+|  135 | Wooden Cabinet
+|  136 | Wooden Single Bed
+|  137 | Stylish ArmChair
+|  138 | Stylish Sofa
+|  139 | Dark Wooden Chair
+|  140 | Purple Sofa
+|  141 | A white chair
+|  142 | White Coffee Table
+|  143 | White Dinner Table
+|  144 | White Long Cofee Table
+|  145 | White Sofa
+|  146 | Stylish Bed
+|  147 | Stylish Bedside Table
+|  148 | Stylish Drawers
+|  149 | Stylish Dresser
+|  150 | Furniture Shop Deed
+|  151 | Dainty Bed
+|  152 | Dainty Bedside Table
+|  153 | Dainty Chair
+|  154 | Dainty Coffee Table
+|  155 | Dainty Drawers
+|  156 | Dainty Kitchen Table
+|  157 | Dainty Lamp
+|  158 | Dainty Ottoman
+|  159 | Dainty Sofa
+|  160 | White Arm Chair
+|  161 | White Ottoman
+|  162 | White Bed
+|  163 | White Bed Side Table.
+|  164 | White Chest of Drawers
+|  165 | Fern Vase
+|  166 | Purple Vase
+|  167 | Yellow Wattle Vase
+|  168 | Kitchen Cabinet
+|  169 | Kitchen Oven
+|  170 | Kitchen Sink
+|  171 | Stylish Chair
+|  172 | Stylish Table
+|  173 | Stylish Lamp
+|  174 | Regal ArmChair
+|  175 | Regal Bed
+|  176 | Regal Bedside Table
+|  177 | Regal Chair
+|  178 | Regal Lamp
+|  179 | Regal Sofa
+|  180 | Regal Table
+|  181 | Regal Drawers
+|  182 | Feather
+|  183 | Copper Pickaxe
+|  184 | Iron Pickaxe
+|  185 | Space Helmet
+|  186 | Space Suit Pants
+|  187 | Space Suit Shirt
+|  188 | Space Suit Shoes
+|  189 | Pink Baseball Cap
+|  190 | Black Pants
+|  191 | Black Shirt
+|  192 | Black Sneakers
+|  193 | Daisy Shorts
+|  194 | Pink Dress
+|  195 | Strapped Sandals
+|  196 | Green Baseball Cap
+|  197 | Nautilis Shell
+|  198 | Scallop Shell
+|  199 | Syrinx Shell
+|  200 | Banded Morwong
+|  201 | Bluefish
+|  202 | Garfish
+|  203 | Golden Perch
+|  204 | Mangrove Jack
+|  205 | Luderick
+|  206 | Blue Spot Flathead
+|  207 | Travalla
+|  208 | Yellowfin Tuna
+|  209 | Pirate Coat
+|  210 | Spinifex Tuft
+|  211 | Hot Air Balloon
+|  212 | Spinifex Resin
+|  213 | Palm Wood Log
+|  214 | Prickly Pear Flesh
+|  215 | Cactus Figs
+|  216 | Copper Axe
+|  217 | Iron Axe
+|  218 | Jump Charm
+|  219 | Swim Charm
+|  220 | Run Charm
+|  221 | White Collar Dress
+|  222 | Dark Blue Button Dress
+|  223 | Crab Pot
+|  224 | Mud Crab
+|  225 | Honey
+|  226 | Bee House
+|  227 | Bee
+|  228 | Queen Bee
+|  229 | Red Back Spider
+|  230 | Desert Scorpion
+|  231 | Stinkbug
+|  232 | Paper Wasp
+|  233 | Birdwing Butterfly
+|  234 | Swallow-tail Butterfly
+|  235 | Harlequin Butterfly
+|  236 | Sling Shot
+|  237 | Yabbie
+|  238 | Pink Shots
+|  239 | Pink Sneakers
+|  240 | Pink T-Shirt
+|  241 | Blue Sneakers
+|  242 | Blue T-Shirt
+|  243 | Purple Dress
+|  244 | Purple Flats
+|  245 | Purple Pants
+|  246 | Crocodile Tooth
+|  247 | Glowing Mushroom
+|  248 | Firefly
+|  249 | Field Cricket
+|  250 | Cement Path
+|  251 | Brick Fence
+|  252 | Ute
+|  253 | Green Boots
+|  254 | Brown Pants
+|  255 | Blue Flanney Shirt
+|  256 | Black Striped Pants
+|  257 | Green Jacket
+|  258 | Maroon Pants
+|  259 | Adventure Hood
+|  260 | Red Strapped Shoes
+|  261 | Overall Dress
+|  262 | Stripped Tights
+|  263 | Chef Hat
+|  264 | Cement Steps
+|  265 | Water Tank Plan
+|  266 | Chef Jacket
+|  267 | Chef Pants
+|  268 | Orange Shorts
+|  269 | Orange T-Shirt
+|  270 | Brown Sandals
+|  271 | Hedge
+|  272 | Roo Poo
+|  273 | Palm Wood Lamp Post
+|  274 | Palm Wood Gate
+|  275 | Fertilizer
+|  276 | Recycling Bin
+|  277 | Bomb
+|  278 | Sprinkler
+|  279 | Aviator Sun Glasses
+|  280 | Eye Patch
+|  281 | Fake Mustache
+|  282 | Modern Glasses
+|  283 | Modern Sun Glasses
+|  284 | Monocle
+|  285 | Old School Glasses
+|  286 | Round Glasses
+|  287 | Round Sun Glasses
+|  288 | Small Glasses
+|  289 | Small Sun Glasses
+|  290 | Square Glasses
+|  291 | Square Sun Glasses
+|  292 | Jolly Beard
+|  293 | Jolly Hat
+|  294 | Jolly Pants
+|  295 | Jolly Shirt
+|  296 | Jolly Shoes
+|  297 | Bananas
+|  298 | Termite Nest
+|  299 | Dink
+|  300 | Apple
+|  301 | Hard Wood Log
+|  302 | Animal Trap
+|  303 | Scythe
+|  304 | Table Saw
+|  305 | Wood Plank
+|  306 | Palm Wood Plank
+|  307 | Hard Wood Plank
+|  308 | Raw Drumstick
+|  309 | Pearl
+|  310 | Cooked Drumstick
+|  311 | Magic Tome
+|  312 | Magic Shovel of Dirt
+|  313 | Grass Seed
+|  314 | Palm Wood Path
+|  315 | Palm Wood Steps
+|  316 | Gum Nut
+|  317 | Pine Cone
+|  318 | Palm Tree Seed
+|  319 | Sleeping Bag
+|  320 | Kale
+|  321 | Kale Seeds
+|  322 | Potato
+|  323 | Potato Seeds
+|  324 | Wheat
+|  325 | Wheat Seeds
+|  326 | Watermelon Seeds
+|  327 | Watermelon
+|  328 | Pumpkin
+|  329 | Pumpkin Seeds
+|  330 | Onion
+|  331 | Onion Seeds
+|  332 | Visiting Site Deed
+|  333 | Carp
+|  334 | Eyestripe Surgeon Fish
+|  335 | Black & White Snapper
+|  336 | Boofhead Catfish
+|  337 | Murray Cod
+|  338 | Eel Tailed Catfish
+|  339 | Stingray
+|  340 | MotorBike
+|  341 | Bird Coop
+|  342 | Animal Shop Deed
+|  343 | Animal Feeder
+|  344 | Animal Food
+|  345 | Chicken Egg
+|  346 | Rock Path
+|  347 | Animal Stall
+|  348 | Vombat Whistle
+|  349 | Milking Bucket
+|  350 | Milk
+|  351 | Wooden Flower Bed
+|  352 | Hedge Arch
+|  353 | Diving Knife
+|  354 | Pink Bow Hat
+|  355 | Sun Hat
+|  356 | Gangsta Hat
+|  357 | Emu Mount
+|  358 | Brick Fountain
+|  359 | Cooking Table
+|  360 | Lamington
+|  361 | Fish and Chips
+|  362 | Fruit Salad
+|  363 | Garden Salad
+|  364 | Hearty Stew
+|  365 | Desert Rose Pot
+|  366 | Fruit Bowl
+|  367 | Alarm Clock
+|  368 | Regal Clock
+|  369 | Red Lava Lamp
+|  370 | Roo Plush
+|  371 | Basic Wooden Floor
+|  372 | Basic Wooden Wall
+|  373 | Dainty Floor
+|  374 | Regal Rug
+|  375 | Dainty Wall
+|  376 | Checkered Floor
+|  377 | Basic White Wall
+|  378 | Light Blue Wall
+|  379 | Checkered Wall
+|  380 | Museum Deed
+|  381 | Chequer Vest
+|  382 | Old Key
+|  383 | Quarry
+|  384 | Old Gear
+|  385 | Yellow Hang Glider
+|  386 | Candle hat
+|  387 | Basic Spear
+|  388 | Chicken Whistle
+|  389 | Basic Hammer
+|  390 | Toad Skin
+|  391 | Bulletin Board Deed
+|  392 | Keg
+|  393 | Wattle Brew
+|  394 | Camera
+|  395 | Animal Collection Point
+|  396 | Desert Rose
+|  397 | Billy Button
+|  398 | Royal Bluebell
+|  399 | Desert Pea
+|  400 | Common Heath
+|  401 | Town Hall
+|  402 | Animal Shears
+|  403 | Wool
+|  404 | Animal Den
+|  405 | Blueprint
+|  406 | Pink Polka Dot Pants
+|  407 | Pink Polka Dot Shirt
+|  408 | Pink Polka dot Shoes
+|  409 | Pink Polka Dot Dress
+|  410 | Orange Dino Shirt
+|  411 | Skull Shirt
+|  412 | Feather Shirt
+|  413 | Black Baseball Cap
+|  414 | White Baseball Cap
+|  415 | White Sweat Pants
+|  416 | Brown Sand Shoes
+|  417 | Camo Cap
+|  418 | Camo Dress
+|  419 | Camo Pants
+|  420 | Camo Shirt
+|  421 | Camo Boots
+|  422 | Cargo Pants
+|  423 | Blue Stripe Shirt
+|  424 | Green Sand Shoes
+|  425 | Orange Cargo Pants
+|  426 | Orange Sand Shoes
+|  427 | Orange Stripe Shirt
+|  428 | Straw Sun Hat
+|  429 | Red Puffy Jacket
+|  430 | Blue Puffy Jacket
+|  431 | Green Puffy Jacket
+|  432 | Purple Puffy Jacket
+|  433 | Blue Ugly Sweater
+|  434 | Blue Cuffed Pants
+|  435 | Green Cuffed Pants
+|  436 | Purple Cuffed Pants
+|  437 | Red Cuffed Pants
+|  438 | Pink Singlet
+|  439 | Red Singlet
+|  440 | Red Shorts
+|  441 | Black Singlet
+|  442 | Black Shorts
+|  443 | Swimming Goggles
+|  444 | Punk Goggles
+|  445 | Yellow Gum Boots
+|  446 | Rain Coat
+|  447 | Rain Hat
+|  448 | Blue Stripe dress
+|  449 | Orange Stripe dress
+|  450 | Gacha Machine
+|  451 | Basic Bench
+|  452 | Scarecrow
+|  453 | Brick Flower Bed
+|  454 | Recycling Bin
+|  455 | Small Rock
+|  456 | Tin Ore
+|  457 | Crude Axe
+|  458 | Crude Furnace
+|  459 | Tent
+|  460 | Tin Bar
+|  461 | Flagpole
+|  462 | Base Tent
+|  463 | Picket Fence
+|  464 | Picket Gate
+|  465 | Skull Mask
+|  466 | Tin Sheet
+|  467 | Dog Kennel
+|  468 | Dog Whistle
+|  469 | Green Pattern Wall
+|  470 | Blue Pattern Wall
+|  471 | Red Pattern Wall
+|  472 | Pink Pattern Wall
+|  473 | Dark Wooden Wall
+|  474 | Dark Wooden Floor
+|  475 | Pink Carpet
+|  476 | Basic Blue Wallpaper
+|  477 | Basic Green Wallpaper
+|  478 | Basic Pink Wallpaper
+|  479 | Basic Red Wall
+|  480 | Bank Deed
+|  481 | Crafting Table
+|  482 | Tiki Torch
+|  483 | Crude Fence
+|  484 | Bonytongue
+|  485 | Green Flat Cap
+|  486 | Pirate Pants
+|  487 | Pirate Boots
+|  488 | Pirate Hat
+|  489 | Ninja Hood
+|  490 | Ninja Boots
+|  491 | Ninja Pants
+|  492 | Ninja Shirt
+|  493 | Yellow Polka Dot Dress
+|  494 | Yellow Plaid Dress
+|  495 | Blue Plaid Dress
+|  496 | Brown Overall Dress
+|  497 | Green Overall Dress
+|  498 | Green Cardigan Dress
+|  499 | Pink Cardigan Dress
+|  500 | Green Bow Hat
+|  501 | Old Straw Hat
+|  502 | Donation Box
+|  503 | Weather Station
+|  504 | Green Flannelette Shirt
+|  505 | Green Plaid Pants
+|  506 | Blue Plaid Pants
+|  507 | Orange Flanney Shirt
+|  508 | Orange Plaid Pants
+|  509 | Red Plaid Pants
+|  510 | Orange Flat Cap
+|  511 | Red Flat Cap
+|  512 | Blue Flat Cap
+|  513 | Blue Flanney Dress
+|  514 | Green Flannelette Dress
+|  515 | Orange Flanney Dress
+|  516 | Red Flanney Dress
+|  517 | Guitar
+|  518 | Guest House Deed
+|  519 | Guest House Deed
+|  520 | Guest House Deed
+|  521 | Player Shed
+|  522 | Eastern Chair
+|  523 | Eastern Seat
+|  524 | Eastern Bed
+|  525 | Eastern Bedside Table
+|  526 | Eastern Bookshelf
+|  527 | Eastern Wardrobe
+|  528 | Eastern Coffee Table
+|  529 | Eastern Couch
+|  530 | Eastern Table
+|  531 | Eastern Lamp
+|  532 | Eastern Floor
+|  533 | Eastern Wall
+|  534 | Red Wood Floor
+|  535 | Small Stack of Books
+|  536 | Wombie Bank
+|  537 | Billy Button Pot
+|  538 | Royal Bluebell Pot
+|  539 | Rattan Bed
+|  540 | Rattan Bookshelf
+|  541 | Rattan Cabinet
+|  542 | Rattan Chair
+|  543 | Rattan Coffee Table
+|  544 | Rattan Couch
+|  545 | Rattan Table
+|  546 | Rattan Floor
+|  547 | Rattan Lamp
+|  548 | Rattan Seat
+|  549 | Rattan Bedside Table
+|  550 | Rattan Wall
+|  551 | Nordic Bed
+|  552 | Nordic Bedside Table
+|  553 | Nordic Bookshelf
+|  554 | Nordic Cabinet
+|  555 | Nordic Chair
+|  556 | Nordic Coffee Table
+|  557 | Nordic Couch
+|  558 | Nordic Table
+|  559 | Nordic Floor
+|  560 | Nordic Lamp
+|  561 | Nordic Seat
+|  562 | Nordic Wall
+|  563 | Pink Bed
+|  564 | Pink Bedside Table
+|  565 | Pink Bookshelf
+|  566 | Pink Cabinet
+|  567 | Pink Chair
+|  568 | Pink Coffee Table
+|  569 | Pink Couch
+|  570 | Pink Table
+|  571 | Pink Lamp
+|  572 | Pink Seat
+|  573 | Cube Floor
+|  574 | Cube Wall
+|  575 | Cooked Apple
+|  576 | Cooked Banana
+|  577 | Cooked Bush Lime
+|  578 | Palm Wood Bridge
+|  579 | Meadow Katydid
+|  580 | Rhinoceros Beetle
+|  581 | Goliath stick
+|  582 | Bogong Moth
+|  583 | Scarlet Jezebel Butterfly
+|  584 | Raw Giant Drumstick
+|  585 | Hot Cylinder
+|  586 | Green Board
+|  587 | Old Wheel
+|  588 | Shiny Disc
+|  589 | North Teletower
+|  590 | East Teletower
+|  591 | South Teletower
+|  592 | West Teletower
+|  593 | Copper Spear
+|  594 | Iron Spear
+|  595 | Copper Hammer
+|  596 | Iron Hammer
+|  597 | Island Map
+|  598 | Adventurer's Journal
+|  599 | Jack Hammer
+|  600 | Jet Ski
+|  601 | Glass Bulb
+|  602 | Smooth Slate
+|  603 | Big Chicken Egg
+|  604 | Rowboat
+|  605 | Blackfish
+|  606 | Galaxias
+|  607 | Silver Perch
+|  608 | Anchovy
+|  609 | Goat Fish
+|  610 | Barracuda
+|  611 | Blob Fish
+|  612 | Saratoga
+|  613 | Tarpon
+|  614 | Black Cricket
+|  615 | Monarch Butterfly
+|  616 | Lacewing
+|  617 | Emperor DragonFly
+|  618 | Pygmyfly
+|  619 | Tau Emerald Dragonfly
+|  620 | Ladybird
+|  621 | Tiger Moth
+|  622 | Duskhawker Dragonfly
+|  623 | Largidae
+|  624 | Huntsman
+|  625 | Blue Moon Butterfly
+|  626 | Fiddler Beetle
+|  627 | Stag Beetle
+|  628 | Marlin
+|  629 | Grayling
+|  630 | Hercules Moth
+|  631 | Centipede
+|  632 | Short Finned Eel
+|  633 | Spinning Wheel
+|  634 | Cloth
+|  635 | Cheese Maker
+|  636 | Cheese
+|  637 | High Quality Milk
+|  638 | High Quality Cheese
+|  639 | Old Spring
+|  640 | Sliding Handle
+|  641 | Button Board
+|  642 | Bright Wire
+|  643 | Old Toy
+|  644 | Ear Hats
+|  645 | Old Contraption
+|  646 | Cooked Giant Drumstick
+|  647 | Cooked Croco Meat
+|  648 | Croco Meat
+|  649 | Mangrove Stick
+|  650 | Bottle Tree Wood
+|  651 | Red Hooded Cap
+|  652 | Pilot Goggles
+|  653 | Googly Eyes
+|  654 | Hero Mask
+|  655 | Bunny Hood
+|  656 | Yellow Sweats
+|  657 | Yellow Sneakers
+|  658 | Yellow B Shirt
+|  659 | Mine Pass
+|  660 | Fern Seed
+|  661 | Bush Seed
+|  662 | Base Tent Deed
+|  663 | Visiting Site Deed
+|  664 | Flame Sac
+|  665 | Basic Green Rug
+|  666 | Basic Red Rug
+|  667 | Bank Wall
+|  668 | Grass Floor
+|  669 | Cooked Cactus Fig
+|  670 | Wooden Item Sign
+|  671 | Cloud Wall
+|  672 | Retro Flower Wall
+|  673 | Retro Floor
+|  674 | Basic Blue Rug
+|  675 | Basic Pink Rug
+|  676 | Basic Purple Rug
+|  677 | Basic Orange Rug
+|  678 | Marble Floor
+|  679 | Bug Book
+|  680 | Fish Book
+|  681 | Plant Book
+|  682 | Compactor
+|  683 | Jackaroo Mask
+|  684 | Helicopter
+|  685 | Meat Pie
+|  686 | Pavlova
+|  687 | Dagwood Dog
+|  688 | Croc Teeth Bat
+|  689 | Flaming Bat
+|  690 | Quiche
+|  691 | Meat on a stick
+|  692 | Water Tank
+|  693 | Silo
+|  694 | Blackwood Seed
+|  695 | Fake Beard
+|  696 | Cement Fence
+|  697 | Simple Animal Trap
+|  698 | Bottle Brush
+|  699 | Copper Watering Can
+|  700 | Copper Watering Can
+|  701 | Iron Watering Can
+|  702 | Iron Watering Can
+|  703 | Compost Bin
+|  704 | Shovel of Sand
+|  705 | Shovel of Mud
+|  706 | Shovel of Red Sand
+|  707 | Fir Grass Seeds
+|  708 | Tropical Grass Seeds
+|  709 | Long Shoes
+|  710 | Tele Pad
+|  711 | Tele Caller
+|  712 | Black Jacket
+|  713 | Black Jeans
+|  714 | White Pants
+|  715 | White T-Shirt
+|  716 | Black Flat Cap
+|  717 | Black Flanney Shirt
+|  718 | Black Plaid Pants
+|  719 | Yellow Shorts
+|  720 | Yellow T-Shirt
+|  721 | Yellow Boots
+|  722 | White Boots
+|  723 | Face Bandana Green
+|  724 | Face Bandana Black
+|  725 | Face Bandana Blue
+|  726 | Face Bandana Orange
+|  727 | Face Bandana Red
+|  728 | Large Round Glasses
+|  729 | Retro Point Glasses
+|  730 | Retro Point Sun Glasses
+|  731 | Triangle Glasses
+|  732 | Shutter Shades
+|  733 | Round Horned Glasses
+|  734 | Round Horned Sun Glasses
+|  735 | Yellow Dress
+|  736 | Rainbow Dress
+|  737 | Black Plaid Dress
+|  738 | Rainbow T-Shirt
+|  739 | Rainbow Pants
+|  740 | Rainbow Sneakers
+|  741 | Red Nose
+|  742 | Beak
+|  743 | Black Coat
+|  744 | Black Ripped Jeans
+|  745 | House Move Deed
+|  746 | Jelly
+|  747 | Jelly Brew
+|  748 | Bottle Brush Brew
+|  749 | Advanced Sprinkler
+|  750 | Vombat Poo
+|  751 | White Mask
+|  752 | Black Mask
+|  753 | Windmill
+|  754 | Flower Pot
+|  755 | Gum Wood Path
+|  756 | Hard Wood Path
+|  757 | Hard Wood Bridge
+|  758 | Gum Wood Bridge
+|  759 | Brick Bridge
+|  760 | Gum Wood Fence
+|  761 | Hard Wood Fence
+|  762 | Tin Fence
+|  763 | Big Fried Egg
+|  764 | Fried Egg
+|  765 | Gum Wood Gate
+|  766 | Hard Wood Gate
+|  767 | Tin Gate
+|  768 | Copper Hoe
+|  769 | Brick Well
+|  770 | Quandong
+|  771 | Cooked Quandong
+|  772 | Flake
+|  773 | Cooked Flake
+|  774 | Wheelbarrow
+|  775 | Iron Path
+|  776 | Bottle Brush Seed
+|  777 | Wattle Seed
+|  778 | Copper Fishing Rod
+|  779 | Iron Fishing Rod
+|  780 | Chicken Hood
+|  781 | Wizard Hat
+|  782 | Wizard Robe
+|  783 | Witch Hat
+|  784 | Witch Robe
+|  785 | Green Chair
+|  786 | Green Seat
+|  787 | Green Bed
+|  788 | Green Bedside Table
+|  789 | Green Bookshelf
+|  790 | Green Cabinet
+|  791 | Green Couch
+|  792 | Green Coffee Table
+|  793 | Green Table
+|  794 | Green Lamp
+|  795 | Town Hall Base Tent Upgrade
+|  796 | Town Hall Deed
+|  797 | Storage Barrel
+|  798 | Lawn Mower
+|  799 | Coconut
+|  800 | Boogie Board
+|  801 | Tractor
+|  802 | Blue Paint
+|  803 | Paint Remover
+|  804 | Black Paint
+|  805 | Green Paint
+|  806 | Orange Paint
+|  807 | Pink Paint
+|  808 | Purple Paint
+|  809 | Red Paint
+|  810 | White Paint
+|  811 | Yellow Paint
+|  812 | Chrome Paint
+|  813 | Gold Paint
+|  814 | Buccinidae Shell
+|  815 | Cassidae Shell
+|  816 | Sand Dollar
+|  817 | Tonnidae Shell
+|  818 | Biscuit Sea Star
+|  819 | Eleven-armed Sea Star
+|  820 | Black Sea Cucumber
+|  821 | Spiny Sea Urchin
+|  822 | Pink Sea Urchin
+|  823 | Purple Sea Urchin
+|  824 | King Prawn
+|  825 | Tiger Prawn
+|  826 | Bay Bug
+|  827 | Fresh Water Mussel
+|  828 | Fresh Water Prawn
+|  829 | Inland Crab
+|  830 | Purple Mottled Crab
+|  831 | Blue Mussel
+|  832 | Cushion Sea Star
+|  833 | White Yabbie
+|  834 | Blue Sea Slug
+|  835 | Croco Berley Box
+|  836 | Devil Berley Box
+|  837 | Shark Berley Box
+|  838 | Battle Shovel
+|  839 | Bone Bow
+|  840 | Bone Arrow
+|  841 | Gold Pocket Watch
+|  842 | Boom Box
+|  843 | Tomato
+|  844 | Tomato Seeds
+|  845 | Green Bean
+|  846 | Green Bean Seeds
+|  847 | Empty Miners Helmet
+|  848 | Wooden Chest
+|  849 | Doggo Collar
+|  850 | Mu Saddle
+|  851 | Copper Bulb Lamp
+|  852 | Cooked Prime Meat
+|  853 | Raw Prime Meat
+|  854 | Repair Table
+|  855 | Repair Kit
+|  856 | Charging Station
+|  857 | Old Sign
+|  858 | Iron Hoe
+|  859 | Bat Wing
+|  860 | Grain Mill
+|  861 | Flour
+|  862 | Sugar
+|  863 | Worm Farm
+|  864 | Machine Manual
+|  865 | Warm Nordic Bed
+|  866 | Warm Nordic Bedside Table
+|  867 | Warm Nordic Bookshelf
+|  868 | Warm Nordic Cabinet
+|  869 | Warm Nordic Chair
+|  870 | Warm Nordic Coffee Table
+|  871 | Warm Nordic Couch
+|  872 | Warm Nordic Table
+|  873 | Tall Book Shelf
+|  874 | Warm Nordic Lamp
+|  875 | Warm Nordic Seat
+|  876 | Red Hang Glider
+|  877 | Butter Glider
+|  878 | Dark Wooden Table
+|  879 | Dark Wooden Seat
+|  880 | Dark Wooden Couch
+|  881 | Dark Wooden Bedside Table
+|  882 | Tea Pot
+|  883 | Small Pot
+|  884 | Rattan Basket
+|  885 | Palm Wood Bench
+|  886 | Hard Wood Bench
+|  887 | Gum Wood Bench
+|  888 | Iron Wood Bench
+|  889 | Festoon Lights
+|  890 | Mushroom Lamp
+|  891 | Jackaroo Statue
+|  892 | Bush Devil Statue
+|  893 | Bread
+|  894 | Fairy Bread
+|  895 | Pastie
+|  896 | Damper
+|  897 | Sausage Roll
+|  898 | Prime Roast
+|  899 | Golden Jackaroo Statue
+|  900 | Golden Bush Devil Statue
+|  901 | Iron Cement Fence
+|  902 | Copper Top Fence
+|  903 | Umbrella
+|  904 | Bulletin Board
+|  905 | Thunder Sac
+|  906 | Bat Zapper
+|  907 | Gum Wood Steps
+|  908 | Hard Wood Steps
+|  909 | Gum Wood Lamp Post
+|  910 | Hard Wood Lamp Post
+|  911 | Copper Scythe
+|  912 | Iron Scythe
+|  913 | Cement Bird Bath
+|  914 | Hardwood Crude Fence
+|  915 | Froggy Hood
+|  916 | Cat Hood
+|  917 | Yellow Print Dress
+|  918 | Yellow Print Pants
+|  919 | Brown Boat Shoes
+|  920 | Floppy Straw Hat
+|  921 | Bunting Festoon
+|  922 | House Customisation Kit
+|  923 | Gum Wood Flag Post
+|  924 | Palm Wood Flag Post
+|  925 | Dirt Printer
+|  926 | Mighty Seeds
+|  927 | Mighty Spread
+|  928 | Hard Wood Flag Post
+|  929 | Black Wooden Crate
+|  930 | Blue Wooden Crate
+|  931 | Chrome Wooden Crate
+|  932 | Gold Wooden Crate
+|  933 | Green Wooden Crate
+|  934 | Orange Wooden Crate
+|  935 | Pink Wooden Crate
+|  936 | Purple Wooden Crate
+|  937 | Red Wooden Crate
+|  938 | White Wooden Crate
+|  939 | Yellow Wooden Crate
+|  940 | Black Wooden Chest
+|  941 | Blue Wooden Chest
+|  942 | Chrome Wooden Chest
+|  943 | Gold Wooden Chest
+|  944 | Green Wooden Chest
+|  945 | Orange Wooden Chest
+|  946 | Pink Wooden Chest
+|  947 | Purple Wooden Chest
+|  948 | Red Wooden Chest
+|  949 | White Wooden Chest
+|  950 | Yellow Wooden Chest
+|  951 | Salon Deed
+|  952 | Butterfly Orchid
+|  953 | Glow Bug
+|  954 | Deep Fish
+|  955 | Bat Glider
+|  956 | Alpha Hammer
+|  957 | Alpha Antler
+|  958 | Alpha Scale
+|  959 | Alpha Spear
+|  960 | Alpha Bat
+|  961 | Pattern Stone Path
+|  962 | Panda Hood
+|  963 | Alpha Eye
+|  964 | Cobblestone Path
+|  965 | Cobblestone Fence
+|  966 | Rock Edge Path
+|  967 | Cobblestone Road
+|  968 | Cobblestone Road Lines
+|  969 | Cooked Freshwater Fish
+|  970 | Cooked Saltwater Fish
+|  971 | Detective Pants
+|  972 | Trench Coat
+|  973 | Black Boat Shoes
+|  974 | P.I Hat
+|  975 | Dark Detective Pants
+|  976 | Dark Trench Coat
+|  977 | Dark P.I Hat
+|  978 | Blue Summer Dress
+|  979 | Green Summer Dress
+|  980 | Minimalist Bed
+|  981 | Minimalist Bedside Table
+|  982 | Minimalist Book Shelf
+|  983 | Minimalist Chair
+|  984 | Minimalist Couch
+|  985 | Minimalist Dresser
+|  986 | Minimalist Lamp
+|  987 | Minimalist Seat
+|  988 | White Brick Wallpaper
+|  989 | Red Brick Wallpaper
+|  990 | Green Brick Wallpaper
+|  991 | Dark Tiles
+|  992 | Bright Tiles
+|  993 | Mascot Head
+|  994 | Mascot Legs
+|  995 | Mascot Torso
+|  996 | Bunk Bed
+|  997 | Cooked Blob Fish
+|  998 | Honey Comb Path
+|  999 | Warm Nordic Wall
+|1000, Name: Warm Nordic Floor
+|1001, Name: Bottle Tree Seed
+|1002, Name: Mushroom Path
+|1003, Name: Pearl Path
+|1004, Name: Melon Scarecrow
+|1005, Name: Elf Ears
+|1006, Name: Elf Hat
+|1007, Name: Elf Pants
+|1008, Name: Elf Shirt
+|1009, Name: Elf Shoes
+|1010, Name: Festive Tree
+|1011, Name: Festive Scarecrow
+|1012, Name: Festive Crate
+|1013, Name: Festive Jackaroo
+|1014, Name: Cherries
+|1015, Name: Cooked Cherries
+|1016, Name: Fireplace
+|1017, Name: Mini Festive Tree
+|1018, Name: Festive Boom Box
+|1019, Name: Festive Towel
+|1020, Name: Festive Umbrella
+|1021, Name: Candy Cane
+|1022, Name: Jolly Dress
+|1023, Name: Striped Boogie Board
+|1024, Name: Star Light
+|1025, Name: Candy Pickaxe
+|1026, Name: Candy Axe
+|1027, Name: Gingerbread Path
+|1028, Name: Festive Fence
+|1029, Name: Pleep Whistle
+|1030, Name: Holly Wreath
+|1031, Name: Tuckshop Deed
+|1032, Name: Marble Path
+|1033, Name: Coffee Seeds
+|1034, Name: Coffee Bean
+|1035, Name: Roasted Coffee Beans
+|1036, Name: Coffee
+|1037, Name: Signwriting  Table
+|1038, Name: A Letter Statue
+|1039, Name: B Letter Statue
+|1040, Name: C Letter Statue
+|1041, Name: D Letter Statue
+|1042, Name: E Letter Statue
+|1043, Name: F Letter Statue
+|1044, Name: G Letter Statue
+|1045, Name: H Letter Statue
+|1046, Name: I Letter Statue
+|1047, Name: J Letter Statue
+|1048, Name: K Letter Statue
+|1049, Name: L Letter Statue
+|1050, Name: M Letter Statue
+|1051, Name: N Letter Statue
+|1052, Name: O Letter Statue
+|1053, Name: P Letter Statue
+|1054, Name: Q Letter Statue
+|1055, Name: R Letter Statue
+|1056, Name: S Letter Statue
+|1057, Name: T Letter Statue
+|1058, Name: U Letter Statue
+|1059, Name: V Letter Statue
+|1060, Name: W Letter Statue
+|1061, Name: X Letter Statue
+|1062, Name: Y Letter Statue
+|1063, Name: Z Letter Statue
+|1064, Name: Hand Written sign
+|1065, Name: Signwriting  Pen
+|1066, Name: Iron Sign
+|1067, Name: Gum Wood Direction Sign
+|1068, Name: Palm Wood Direction Sign
+|1069, Name: Hard Wood Direction Sign
+|1070, Name: Tin Direction Sign
+|1071, Name: Sail Boat
+|1072, Name: Jackaroo Crossing Sign
+|1073, Name: Lattice Fence
+|1074, Name: Jackaroo Paw
+|1075, Name: Flannel Flower
+|1076, Name: River Daisy
+|1077, Name: Orange Paper Daisy
+|1078, Name: Gum Wood Flower Bed
+|1079, Name: Wide Gum Wood Bridge
+|1080, Name: Wide Hard Wood Bridge
+|1081, Name: Bird of Paradise
+|1082, Name: Glow Button
+|1083, Name: Trash Bin
+|1084, Name: Leaf Glider
+|1085, Name: Desert Pea Pot
+|1086, Name: River Daisy Pot
+|1087, Name: Flannel Flower Pot
+|1088, Name: Butterfly Orchid Pot
+|1089, Name: Orange Paper Daisy Pot
+|1090, Name: Pink Paper Daisy
+|1091, Name: White Paper Daisy
+|1092, Name: Wheelbarrow Flower Bed
+|1093, Name: Ruby Shard
+|1094, Name: Emerald Shard
+|1095, Name: Waterbed
+|1096, Name: Bottle of Clouds
+|1097, Name: Large Cement Fountain
+|1098, Name: Copper Flower Pot
+|1099, Name: Lilly Pilly Seed
+|1100, Name: Small Lilly Pilly Seed
+|1101, Name: Comp Bug Net
+|1102, Name: Gold Bug Comp Trophy
+|1103, Name: Silver Bug Comp Trophy
+|1104, Name: Bronze Bug Comp Trophy
+|1105, Name: Bridged Waterbed
+|1106, Name: Band Stand
+|1107, Name: Diving Helmet
+|1108, Name: Improved Chainsaw
+|1109, Name: Empty Improved Chainsaw
+|1110, Name: Balloon
+|1111, Name: Red Cloth Path
+|1112, Name: Sparkler
+|1113, Name: Mu Whistle
+|1114, Name: Camera Tripod
+|1115, Name: Wooden Swing
+|1116, Name: Lily Pad
+|1117, Name: Giant Lily Pad
+|1118, Name: Hard Wood Flower Bed
+|1119, Name: Portable Roof
+|1120, Name: Key-Cycler
+|1121, Name: Billy Can Kit
+|1122, Name: Tongs
+|1123, Name: Tape Measure
+|1124, Name: Jacaranda Sapling
+|1125, Name: Small Cement Fountain
+|1126, Name: Wattle Tea
+|1127, Name: Bottle Brush Tea
+|1128, Name: Croco Statue
+|1129, Name: Frilly Statue
+|1130, Name: Cement Planter
+|1131, Name: Vine
+|1132, Name: Vine Fence
+|1133, Name: Mossy Brick Path
+|1134, Name: Hard Wood Market Stall
+|1135, Name: Marble Fence
+|1136, Name: Post Box
+|1137, Name: Marble Pedestal
+|1138, Name: Marble Bench
+|1139, Name: Marble Pillar
+|1140, Name: Rope Fence
+|1141, Name: Gerse Shirt
+|1142, Name: Purple Jeans
+|1143, Name: Purple Sneakers
+|1144, Name: Orange Sneakers
+|1145, Name: KD Shirt
+|1146, Name: Orange Pants
+|1147, Name: White Shorts
+|1148, Name: Reaps Shirt
+|1149, Name: Lime Sneakers
+|1150, Name: Helmet
+|1151, Name: Stone Lantern
+|1152, Name: Sailor Hat
+|1153, Name: Sailor Pants
+|1154, Name: Sailor Shirt
+|1155, Name: Sailor Boots
+|1156, Name: Sailor Dress
+|1157, Name: Sport Glasses
+|1158, Name: Marble
+|1159, Name: Dinner Set
+|1160, Name: Stack of Plates
+|1161, Name: Bread Board
+|1162, Name: Wattle Brew Set
+|1163, Name: Ramp
+|1164, Name: Advanced Sling Shot
+|1165, Name: Berkonium Ore
+|1166, Name: Berkonium Bar
+|1167, Name: Plant Hammer
+|1168, Name: Raw Grub Meat
+|1169, Name: Cooked Grub Meat
+|1170, Name: Plant Book
+|1171, Name: Traffic Cone
+|1172, Name: Apple Jam
+|1173, Name: Banana Jam
+|1174, Name: Lime Jam
+|1175, Name: Quandong Jam
+|1176, Name: Red Hibiscus
+|1177, Name: Yellow Hibiscus
+|1178, Name: Wide Brick Bridge
+|1179, Name: Improved Dirt Printer
+|1180, Name: Empty Improved Dirt Printer
+|1181, Name: Vine Festoon
+|1182, Name: Stone Wand
+|1183, Name: Bottle Brush Vase
+|1184, Name: Potted Lilly Pilly
+|1185, Name: Painted Lady Butterfly
+|1186, Name: Grass Yellow Butterfly
+|1187, Name: Purple Azure Butterfly
+|1188, Name: Blast Furnace
+|1189, Name: Improved Table Saw
+|1190, Name: Ginger Shirt
+|1191, Name: Purple Shorts
+|1192, Name: Improved Jack Hammer
+|1193, Name: Empty Improved Jack Hammer
+|1194, Name: Improved Compactor
+|1195, Name: Empty Improved Compactor
+|1196, Name: Jurd Shirt
+|1197, Name: Mouth Almighty
+|1198, Name: Bee Hood
+|1199, Name: Stone Sign
+|1200, Name: Duck Canyon Shirt
+|1201, Name: Tree House Shirt
+|1202, Name: Soho Shirt
+|1203, Name: Spec Shirt
+|1204, Name: Tom Shirt
+|1205, Name: Penguin Hood
+|1206, Name: Finch Hood
+|1207, Name: Moxie Shirt
+|1208, Name: Tiger Hood
+|1209, Name: Tongue
+|1210, Name: Diggo Statue
+|1211, Name: Tongue Whip
+|1212, Name: Caito Shirt
+|1213, Name: RileyKS Shirt
+|1214, Name: Sandwich Chalkboard
+|1215, Name: Bushlime Box
+|1216, Name: Banana Box
+|1217, Name: Apple Box
+|1218, Name: Quandong Box
+|1219, Name: Party Horn
+|1220, Name: Snag
+|1221, Name: Balloon
+|1222, Name: Dinkum Shirt
+|1223, Name: JB Shirt
+|1224, Name: Prize Ticket
+|1225, Name: Dinkum Cap
+|1226, Name: Bubble Blower
+|1227, Name: Croco Plush
+|1228, Name: Frying pan
+|1229, Name: Magpie Plush
+|1230, Name: Mu Plush
+|1231, Name: Red Bar Stool
+|1232, Name: Raffle Wheel
+|1233, Name: Cape
+|1234, Name: Anniversary Balloons
+|1235, Name: Velvet Rope Fence
+|1236, Name: Red Carpet Path
+|1237, Name: Seaweed
+|1238, Name: Seaweed Soup
+|1239, Name: Bush Devil Plush
+|1240, Name: Camera Drone
+|1241, Name: Frilly Plush
+|1242, Name: Blue Hang Glider
+|1243, Name: Pink Hang Glider
+|1244, Name: Orange Hang Glider
+|1245, Name: Purple Hang Glider
+|1246, Name: Diggo Plush
+|1247, Name: Gum Wood Market Stall
+|1248, Name: Palm Wood Market Stall
+|1249, Name: Gum Wood Arch
+|1250, Name: Palm Wood Arch
+|1251, Name: Hard Wood Arch
+|1252, Name: Candelabra
+|1253, Name: White Gala Dress
+|1254, Name: Wide Palm Wood Bridge
+|1255, Name: Pincher Plant Plush
+|1256, Name: Fairy Light Wall
+|1257, Name: Tuxedo Jacket
+|1258, Name: Tuxedo Pants
+|1259, Name: Tuxedo Shoes
+|1260, Name: Vine Wall
+|1261, Name: Statue
+|1262, Name: Seamstress Dress
+|1263, Name: Lab Coat
+|1264, Name: Bouquet Pot
+|1265, Name: Black Hood
+|1266, Name: Ute
+|1267, Name: Red Hood
+|1268, Name: Tie Dye Pants
+|1269, Name: Tie Dye Shirt
+|1270, Name: Tie Dye Cap
+|1271, Name: Sugar Cane Crate
+|1272, Name: Cabbage Box
+|1273, Name: Carrot Box
+|1274, Name: Corn Box
+|1275, Name: Kale Box
+|1276, Name: Potato Box
+|1277, Name: Bottled Brush Set
+|1278, Name: Jelly Brew Set
+|1279, Name: Cooked Meat Plate
+|1280, Name: Cooked Drumstick Plate
+|1281, Name: Lamington Plate
+|1282, Name: Meat Pie Plate
+|1283, Name: Wheat Crate
+|1284, Name: Kanz Shirt
+|1285, Name: Tomato Box
+|1286, Name: Cheese Board
+|1287, Name: Cooked Croco Meat Plate
+|1288, Name: Pavlova Plate
+|1289, Name: Quiche Plate
+|1290, Name: Damper Plate
+|1291, Name: Sausage Roll Plate
+|1292, Name: Pastie Plate
+|1293, Name: Fairy Bread Plate
+|1294, Name: Egg Plate
+|1295, Name: Fish And Chips Plate
+|1296, Name: Fruit Salad Plate
+|1297, Name: Garden Salad Plate
+|1298, Name: Hearty Stew Plate
+|1299, Name: Prime Roast Plate
+|1300, Name: Onion Box
+|1301, Name: Watermelon Box
+|1302, Name: Pumpkin Box
+|1303, Name: Food Modeller
+|1304, Name: Flour Bag Stack
+|1305, Name: Sugar Bag Stack
+|1306, Name: Coffee Bag Stack
+|1307, Name: Coffee Cup Set
+|1308, Name: Wattle Tea Set
+|1309, Name: Bottle Tea Set
+|1310, Name: Mighty Spread Set
+|1311, Name: Honey Set
+|1312, Name: Apple Jam Set
+|1313, Name: Lime Jam Set
+|1314, Name: Banana Jam Set
+|1315, Name: Quandong Jam Set
+|1316, Name: River Reed Seed
+|1317, Name: Register
+|1318, Name: Green Bean Box
+|1319, Name: Meat on a Stick Set
+|1320, Name: Dagwood Dog Set
+|1321, Name: Cherry Box
+|1322, Name: Seaweed Soup Plate
+|1323, Name: Paper Bag Hat
+|1324, Name: Airport Deed
+|1325, Name: Gum Wood Entrance Sign
+|1326, Name: Palm Wood Entrance Sign
+|1327, Name: Hard Wood Entrance Sign
+|1328, Name: Rotary Clothesline
+|1329, Name: Red Beach Chair
+|1330, Name: Gum Log Stool
+|1331, Name: Hard Wood Log Stool
+|1332, Name: Palm Wood Log Stool
+|1333, Name: Summer Lily Seed
+|1334, Name: Indoor Summer Lily
+|1335, Name: Jackaroo Wand
+|1336, Name: Aquamarine Shard
+|1337, Name: Floor Light
+|1338, Name: Red Floor Light
+|1339, Name: Green Floor Light
+|1340, Name: Blue Floor Light
+|1341, Name: White Throwing Disc
+|1342, Name: Comp Fishing Rod
+|1343, Name: Pirate Glider
+|1344, Name: Pineapple
+|1345, Name: Treasure Map
+|1346, Name: Pilot Hat
+|1347, Name: Pilot Shirt
+|1348, Name: Pilot Pants
+|1349, Name: Pilot Boots
+|1350, Name: Red Spotty Dress
+|1351, Name: Beach Straw Hat
+|1352, Name: Ice Cream Maker
+|1353, Name: Ice Cream
+|1354, Name: Ice Cream Set
+|1355, Name: Gum Wood Kitchen Cabinet
+|1356, Name: Gum Wood Kitchen Sink
+|1357, Name: Palm Wood Kitchen Cabinet
+|1358, Name: Palm Wood Kitchen Sink
+|1359, Name: White Strap Shoes
+|1360, Name: Sand Castle
+|1361, Name: Sand Bucket
+|1362, Name: Interior Wall
+|1363, Name: Sand Fence
+|1364, Name: Player House 2
+|1365, Name: Your House Deed 3
+|1366, Name: Iron Wood Table
+|1367, Name: Season-All
+|1368, Name: Solar Panel
+|1369, Name: Palm Wood Table
+|1370, Name: Gum Wood Table
+|1371, Name: Hard Wood Table
+|1372, Name: Curtain Festoon
+|1373, Name: Octagon Sign
+|1374, Name: Garden Tap
+|1375, Name: Floor Drain
+|1376, Name: Picnic Basket
+|1377, Name: Pink Holiday Shirt
+|1378, Name: Purple Holiday Shirt
+|1379, Name: Orange Holiday Shirt
+|1380, Name: Green Holiday Shirt
+|1381, Name: Green Holiday Shorts
+|1382, Name: Orange Holiday Shorts
+|1383, Name: Pink Holiday Shorts
+|1384, Name: Purple Holiday Shorts
+|1385, Name: Life Guard Hat
+|1386, Name: Life Guard Shirt
+|1387, Name: Life Guard Shorts
+|1388, Name: Red Tile Path
+|1389, Name: Purple Tile Path
+|1390, Name: Yellow Tile Path
+|1391, Name: Green Tile Path
+|1392, Name: Orange Tile Path
+|1393, Name: Pink Tile Path
+|1394, Name: Blue Tile Path
+|1395, Name: Black Tile Path
+|1396, Name: White Tile Path
+|1397, Name: Beach Bar
+|1398, Name: Hay Bale
+|1399, Name: Cooler
+|1400, Name: Pineapple Box
+|1401, Name: Big Fan Hand
+|1402, Name: Gum Wood Pergola
+|1403, Name: Palm Wood Pergola
+|1404, Name: Hard Wood Pergola
+|1405, Name: Bus Stop
+|1406, Name: Red Beach Hammock
+|1407, Name: Red Beach Umbrella
+|1408, Name: Beetroot
+|1409, Name: Flat Top Fence
+|1410, Name: Beetroot Seeds
+|1411, Name: Blue Beach Towel
+|1412, Name: Green Beach Towel
+|1413, Name: Red Beach Towel
+|1414, Name: Green Beach Umbrella
+|1415, Name: Blue Beach Umbrella
+|1416, Name: White Hibiscus
+|1417, Name: Purple Hibiscus
+|1418, Name: Red Seaweed
+|1419, Name: Dark Wood Kitchen Cabinet
+|1420, Name: Dark Wood Kitchen Sink
+|1421, Name: Green Beach Hammock
+|1422, Name: Blue Beach Hammock
+|1423, Name: Blue Beach Chair
+|1424, Name: Green Beach Chair
+|1425, Name: Arrow Light
+|1426, Name: Clown Fish
+|1427, Name: Gold Fish Trophy
+|1428, Name: Silver Fish Trophy
+|1429, Name: Bronze Fish Trophy
+|1430, Name: Shark Egg
+|1431, Name: Maggie Egg
+|1432, Name: Waiting Chair
+|1433, Name: Boarding Pass
+|1434, Name: Alpha Trident
+|1435, Name: Alpha Shark Tooth
+|1436, Name: Coral Acacia Seed
+|1437, Name: Fridge
+|1438, Name: Blue Sun Glasses
+|1439, Name: Green Sun Glasses
+|1440, Name: Orange Sun Glasses
+|1441, Name: Pink Sun Glasses
+|1442, Name: Purple Sun Glasses
+|1443, Name: Beach Ball
+|1444, Name: Cup of Sunshine
+|1445, Name: Tropical Grass Turf Roll
+|1446, Name: Butterfly Perfume
+|1447, Name: Beetroot Box
+|1448, Name: Milk Set
+|1449, Name: High Quality Milk Set
+|1450, Name: Silver Pocket Watch
+|1451, Name: Brain Coral
+|1452, Name: Bird Nest Coral
+|1453, Name: Blue Staghorn Coral
+|1454, Name: Blue Table Coral Fragment
+|1455, Name: Green Staghorn Coral
+|1456, Name: Pink Coral
+|1457, Name: Pink Table Coral Fragment
+|1458, Name: Green Tube Coral
+|1459, Name: Purple Spotty Dress
+|1460, Name: Purple Strap Shoes
+|1461, Name: Halo
+|1462, Name: Humphead Wrasse
+|1463, Name: Purple-Winged Mantis
+|1464, Name: Blue Tiger Butterfly
+|1465, Name: Common Crow Butterfly
+|1466, Name: Shark Statue
+|1467, Name: Seahorse
+|1468, Name: Triton's Trumpet
+|1469, Name: Sea Sponge
+|1470, Name: Police Hat
+|1471, Name: Police Pants
+|1472, Name: Police Shirt
+|1473, Name: Police Boots
+|1474, Name: White Panel Wall
+|1475, Name: Black Throwing Disc
+|1476, Name: Blue Throwing Disc
+|1477, Name: Green Throwing Disc
+|1478, Name: Orange Throwing Disc
+|1479, Name: Pink Throwing Disc
+|1480, Name: Purple Throwing Disc
+|1481, Name: Red Throwing Disc
+|1482, Name: Blue Tang
+|1483, Name: Yellow Tang
+|1484, Name: Festive Roo Plush
+|1485, Name: Wheezing Shirt
+|1486, Name: Festive Table
+|1487, Name: Festive Festoon
+|1488, Name: Cardboard Box
+|1489, Name: Coconut Drink Set
+|1490, Name: Festive Lamp
+|1491, Name: Coconut Drink
+|1492, Name: Plastic Chair
+|1493, Name: Festive Pole
+|1494, Name: Cooked Prawn
+|1495, Name: Cooked Prawn Plate
+|1496, Name: Red Festive Sweater
+|1497, Name: Festive Chair
+|1498, Name: Light Arch
+|1499, Name: Festive Gifts
+|1500, Name: Green Festive Sweater
+|1501, Name: Spag Bol
+|1502, Name: Cheesy Spag
+|1503, Name: Spag Bol Plate
+|1504, Name: Cheese Spag Plate
+|1505, Name: Jam Toast
+|1506, Name: Croco Skewer
+|1507, Name: Scones
+|1508, Name: Burger
+|1509, Name: Lot Burger
+|1510, Name: Dunny
+|1511, Name: Jam Toast Plate
+|1512, Name: Scones Plate
+|1513, Name: Croco Skewer Set
+|1514, Name: Burger Plate
+|1515, Name: Lot Burger Plate
+|1516, Name: Watermelon Popsicle
+|1517, Name: Advanced Crafting Table
+|1518, Name: Advanced Cooking Table
+|1519, Name: Sparkin' Soup
+|1520, Name: Water Melon Popsicle Set
+|1521, Name: Sparkin' Soup Plate
+|1522, Name: Crab Soup
+|1523, Name: Parmy and Chips
+|1524, Name: Parmi and Chips Plate
+|1525, Name: Crab Soup Plate
+|1526, Name: Yellow Morel
+|1527, Name: Slippery Jack
+|1528, Name: Field Mushroom
+|1529, Name: Milk Cap
+|1530, Name: Hand Trolley
+|1531, Name: Cooked Yabbie Plate
+|1532, Name: Cooked Yabbie
+|1533, Name: Red Roundhead
+|1534, Name: Slippery Jack Stool
+|1535, Name: Field Mushroom Lamp
+|1536, Name: Slippery Jack Lamp
+|1537, Name: Red Roundhead Lamp
+|1538, Name: Yellow Morel Lamp
+|1539, Name: Milk Cap Lamp
+|1540, Name: Mushroom Soup
+|1541, Name: Cooked Mushroom
+|1542, Name: Field Mushroom Basket
+|1543, Name: Milk Cap Basket
+|1544, Name: Slippery Jack Basket
+|1545, Name: Yellow Morel Basket
+|1546, Name: Roundhead Basket
+|1547, Name: Field Mushroom Stool
+|1548, Name: Milk Cap Stool
+|1549, Name: Roundhead Stool
+|1550, Name: Yellow Morel Stool
+|1551, Name: Mushroom Soup Plate
+|1552, Name: Toffee
+|1553, Name: Toffee Plate
+|1554, Name: Pumpkin Soup
+|1555, Name: Pumpkin Soup Plate
+|1556, Name: Balloon Sword
+|1557, Name: Battle Broom
+|1558, Name: Blastoad
+|1559, Name: Plat Pie
+|1560, Name: Toilet
+|1561, Name: Bath Tub
+|1562, Name: Charcoal Wall
+|1563, Name: Pastel Blue Wall
+|1564, Name: Pastel Green Wall
+|1565, Name: Pastel Grey Wall
+|1566, Name: Pastel Orange Wall
+|1567, Name: Pastel Pink Wall
+|1568, Name: Pastel Purple Wall
+|1569, Name: Pastel Red Wall
+|1570, Name: Light Room Divider
+|1571, Name: Eastern Room Divider
+|1572, Name: Rattan Room Divider
+|1573, Name: Mummy Boots
+|1574, Name: Mummy Hood
+|1575, Name: Mummy Pants
+|1576, Name: Mummy Shirt
+|1577, Name: Orange And Grey Jumper
+|1578, Name: White Hoodie
+|1579, Name: White Comfy Shoes
+|1580, Name: Black Hoodie
+|1581, Name: Black Comfy Shoes
+|1582, Name: Black Sweat Pants
+|1583, Name: Orange Hoodie
+|1584, Name: Orange Comfy Shoes
+|1585, Name: Orange Sweat Pants
+|1586, Name: Black And White Scarf
+|1587, Name: Pink Hoodie
+|1588, Name: Pink Comfy Shoes
+|1589, Name: Pink Sweat Pants
+|1590, Name: Green Hoodie
+|1591, Name: Green Comfy Shoes
+|1592, Name: Green Sweat Pants
+|1593, Name: Blue Hoodie
+|1594, Name: Blue Comfy Shoes
+|1595, Name: Blue Sweat Pants
+|1596, Name: Purple Hoodie
+|1597, Name: Purple Comfy Shoes
+|1598, Name: Purple Sweat Pants
+|1599, Name: Red Hoodie
+|1600, Name: Red Comfy Shoes
+|1601, Name: Red Sweat Pants
+|1602, Name: Yellow Hoodie
+|1603, Name: Yellow Comfy Shoes
+|1604, Name: Yellow Sweat Pants
+|1605, Name: Black Scarf
+|1606, Name: Grey Scarf
+|1607, Name: Patterned Scarf
+|1608, Name: Red and Black Scarf
+|1609, Name: Gum Log Seat
+|1610, Name: Dark Room Divider
+|1611, Name: Office Divider
+|1612, Name: Galaxy Glider
+|1613, Name: Galaxy Hood
+|1614, Name: Meteorite Chunk
+|1615, Name: Star Sabre
+|1616, Name: Yellow Stripe Jumper
+|1617, Name: Charcoal Tights
+|1618, Name: Green Stripe Jumper
+|1619, Name: Grey Tights
+|1620, Name: Blue Stripe Jumper
+|1621, Name: White Tights
+|1622, Name: Guest House Level 2
+|1623, Name: Guest House Deed
+|1624, Name: Guest House 2 Level 2
+|1625, Name: Guest House Deed
+|1626, Name: Guest House 2 Level 2
+|1627, Name: Guest House Deed
+|1628, Name: Ride On Lawn Mower
+|1629, Name: Interior Doorway
+|1630, Name: Interior Half Wall
+|1631, Name: Fish Pond
+|1632, Name: Fish Roe
+|1633, Name: Rice Seed
+|1634, Name: Rice
+|1635, Name: Caviar
+|1636, Name: Cooked Rice
+|1637, Name: Egg Fried Rice
+|1638, Name: Rice Bag Stack
+|1639, Name: Egg Fried Rice Plate
+|1640, Name: Caviar Set
+|1641, Name: Cooked Rice Set
+|1642, Name: Roe Nigiri
+|1643, Name: Roe Nigiri Plate
+|1644, Name: Crude Ladder
+|1645, Name: Vine Lattice Ladder
+|1646, Name: Creeping Vine
+|1647, Name: Gum Wood Ladder
+|1648, Name: Hard Wood Ladder
+|1649, Name: Palm Wood Ladder
+|1650, Name: Iron Ladder
+|1651, Name: Rope Ladder
+|1652, Name: Green Wood Floor
+|1653, Name: Cabin Wall
+|1654, Name: Rainbow Fish
+|1655, Name: Lionfish
+|1656, Name: Tiger Beetle
+|1657, Name: Grass Tree Seed Pod
+|1658, Name: Grass Tree Seed
+|1659, Name: Cabin Stool
+|1660, Name: Cabin Chair
+|1661, Name: Cabin Seat
+|1662, Name: Cabin Couch
+|1663, Name: Cabin Bed
+|1664, Name: Old Table
+|1665, Name: Cabin Coffee Table
+|1666, Name: Cabin Drawers
+|1667, Name: Cabin Kitchen Table
+|1668, Name: Cabin Cabinet
+|1669, Name: Mushroom Risotto
+|1670, Name: Mushroom Risotto Plate
+|1671, Name: Insta-Grow
+|1672, Name: Old Wood Fence
+|1673, Name: Old Wood Lamp Post
+|1674, Name: Natural Path
+|1675, Name: Gravel Pathway
+|1676, Name: Auto Sorter
+|1677, Name: Wrought Iron Fence
+|1678, Name: Wrought Iron Lamp
+|1679, Name: Wrought Iron Bench
+|1680, Name: Wrought Iron Gate
+|1681, Name: Cabin Bedside Table
+|1682, Name: Cabin Bunk Bed
+|1683, Name: Old Gizmo
+|1684, Name: Smooth Cement Path
+|1685, Name: Honeycomb
+|1686, Name: Wish Fountain Deed
+|1687, Name: Tin Flower Bed
+|1688, Name: Pin Wheel
+|1689, Name: White Diamond Kite
+|1690, Name: Black Diamond Kite
+|1691, Name: Blue Diamond Kite
+|1692, Name: Green Diamond Kite
+|1693, Name: Orange Diamond Kite
+|1694, Name: Pink Diamond Kite
+|1695, Name: Purple Diamond Kite
+|1696, Name: Red Diamond Kite
+|1697, Name: Yellow Diamond Kite
+|1698, Name: White Box Kite
+|1699, Name: Black Box Kite
+|1700, Name: Blue Box Kite
+|1701, Name: Green Box Kite
+|1702, Name: Orange Box Kite
+|1703, Name: Pink Box Kite
+|1704, Name: Purple Box Kite
+|1705, Name: Red Box Kite
+|1706, Name: Yellow Box Kite
+|1707, Name: White Sled Kite
+|1708, Name: Black Sled Kite
+|1709, Name: Blue Sled Kite
+|1710, Name: Green Sled Kite
+|1711, Name: Orange Sled Kite
+|1712, Name: Pink Sled Kite
+|1713, Name: Purple Sled Kite
+|1714, Name: Red Sled Kite
+|1715, Name: Yellow Sled Kite
+|1716, Name: Kite Kit
+|1717, Name: Glitter Ball
+|1718, Name: Search Light
+|1719, Name: Aurora Shirt
+|1720, Name: Aurora Baseball Cap
+|1721, Name: Moon Lamp
+|1722, Name: Star Wall
+|1723, Name: Sky Fest Prize Ticket
+|1724, Name: Foil Hat
+|1725, Name: Star Carpet Path
+|1726, Name: Star Fence
+|1727, Name: Star Balloon
+|1728, Name: Har-Vac
+|1729, Name: Empty Har-Vac
+|1730, Name: Cockatoo Plush
+|1731, Name: Vombat Plush
+|1732, Name: Wary Mu Plush
+|1733, Name: Shark Plush
+|1734, Name: Party Hat
+|1735, Name: Flower Crown
+|1736, Name: Snow Ball
+|1737, Name: Ice Seat
+|1738, Name: Ice Sculpture
+|1739, Name: Ice Path
+|1740, Name: Ice Lamp
+|1741, Name: Snow Hood
+|1742, Name: Ice Table
+|1743, Name: Ice Ottoman
+|1744, Name: Ice Chest
+|1745, Name: Flame Jelly Bed
+|1746, Name: Iron Lantern
+|1747, Name: Black Marble Path
+|1748, Name: Flame Glider
+|1749, Name: Flame Jelly
+|1750, Name: Berkonium Wand
+|1751, Name: Bush Devil Hood
+|1752, Name: Pickaxe Axe
+|1753, Name: Ice Sculpting Table
+|1754, Name: Perfect Ruby
+|1755, Name: Perfect Emerald
+|1756, Name: Perfect Aquamarine
+|1757, Name: Ice Hammer
+|1758, Name: Flame Jelly Hood
+|1759, Name: Ice Fence
+|1760, Name: Tree Pinchers
+|1761, Name: Tele-Jumper
+|1762, Name: Key Cutter
+|1763, Name: Swag Pack
+|1764, Name: Flame Spear
+|1765, Name: Hard Wood Tool Rack
+|1766, Name: Gum Wood Tool Rack
+|1767, Name: Palm Wood Tool Rack
+|1768, Name: Mannequin
+|1769, Name: Fake Goatee
+|1770, Name: Floor Plaque
+|1771, Name: Director Chair
+|1772, Name: Lil' Top Hat
+|1773, Name: Red Hair Bow
+|1774, Name: Slippers
+|1775, Name: Pajama Pants
+|1776, Name: Pajama Shirt
+|1777, Name: Sleeping Cap
+|1778, Name: Sleeping Mask
+|1779, Name: Villain Mustache
+|1780, Name: Heart  Sun Glasses
+|1781, Name: Raggy Shirt
+|1782, Name: Raggy Pants
+|1783, Name: Raggy Sneakers
+|1784, Name: Green Renaissance Dress
+|1785, Name: Red Renaissance Dress
+|1786, Name: Black Renaissance Dress
+|1787, Name: Brown Apron Dress
+|1788, Name: Horn Helmet
+|1789, Name: Blue Hair Bow
+|1790, Name: Purple Hair Bow
+|1791, Name: Yellow Hair Bow
+|1792, Name: Concierge Jacket
+|1793, Name: Concierge Hat
+|1794, Name: Purple Cap
+|1795, Name: Black Flats
+|1796, Name: Yellow Flats
+|1797, Name: Cool Cap
+|1798, Name: Hazmat Shirt
+|1799, Name: Hazmat Pants
+|1800, Name: Hazmat Hood
+|1801, Name: Hazmat Shoes
+|1802, Name: Blue Vintage Dress
+|1803, Name: Green Vintage Dress
+|1804, Name: Black Victorian Dress
+|1805, Name: Green Victorian Dress
+|1806, Name: Red Victorian Dress
+|1807, Name: Black Victorian Bonnet
+|1808, Name: Green Victorian Bonnet
+|1809, Name: Red Victorian Bonnet
+|1810, Name: Green Victorian Jacket
+|1811, Name: Cream Victorian Pants
+|1812, Name: Brown Victorian Boots
+|1813, Name: Purple Bucket Hat
+|1814, Name: Black Bucket Hat
+|1815, Name: Black Victorian Pants
+|1816, Name: Black Victorian Jacket
+|1817, Name: Black Victorian Boots
+|1818, Name: Red Victorian Jacket
+|1819, Name: White Victorian Boots
+|1820, Name: White Victorian Pants
+|1821, Name: Raggy Dress
+|1822, Name: Brown Tights
+|1823, Name: Antique Desk
+|1824, Name: Cactus Pot
+|1825, Name: Display Case
+|1826, Name: Kitchen Island
+|1827, Name: Dark Wood Kitchen Island
+|1828, Name: Gum Kitchen Island
+|1829, Name: Palm Kitchen Island
+|1830, Name: Palm Wood Double Gate
+|1831, Name: Gum Wood Double Gate
+|1832, Name: Hard Wood Double Gate
+|1833, Name: Tin Double Gate
+|1834, Name: Milk Crate Chair
+|1835, Name: Milk Crate Coffee Table
+|1836, Name: Milk Crate Bookshelf
+|1837, Name: Milk Crate Bed
+|1838, Name: Cement Bridge
+|1839, Name: Wide Cement Bridge
+|1840, Name: Blue Bandana
+|1841, Name: Black Bandana
+|1842, Name: Green Bandana
+|1843, Name: Orange Bandana
+|1844, Name: Red Bandana
+|1845, Name: Glass Fence
+|1846, Name: Black Hair Bow
+|1847, Name: White Hair Bow
+|1848, Name: Pink Hair Bow
+|1849, Name: Green Hair Bow
+|1850, Name: Pincher Hood
+|1851, Name: Pincher Plant Statue
+|1852, Name: Iron Bridge
+|1853, Name: Wide Iron Bridge
+|1854, Name: Gumleaf Grasshopper
+|1855, Name: Cicada
+|1856, Name: Empire Gudgeon
+|1857, Name: Rock Oyster
+|1858, Name: Nudibranch
+|1859, Name: Display Pedestal
+|1860, Name: Impostor Ball
+|1861, Name: Stack of Papers
+|1862, Name: Blue-ringed Octopus
+|1863, Name: Inverse Corner Ramp
+|1864, Name: Go-Go Clock
+|1865, Name: Go-Go Statue
+|1866, Name: Go-Go Lantern
+|1867, Name: Go-Go Phone Booth
+|1868, Name: Go-Go Wiggly Friend
+|1869, Name: Gonut
+|1870, Name: Fried Gonut
+|1871, Name: Go-Go Trike
+|1872, Name: Gonut Box
+|1873, Name: Go-Go Pet Rock
+|1874, Name: Go-Go Trinket
+|1875, Name: Bird Bill
+|1876, Name: Camping Chair
+|1877, Name: Hip-Hop Cassette
+|1878, Name: Bug Terrarium
+|1879, Name: Pop Cassette
+|1880, Name: Rock Cassette
+|1881, Name: Blues Cassette
+|1882, Name: Town Bell
+|1883, Name: Animal Brush
+|1884, Name: Plane
+|1885, Name: Cocoon
+|1886, Name: Silk
+|1887, Name: Rental Sign
+|1888, Name: Tin Pergola
+|1889, Name: Cloth Pergola
+|1890, Name: Brick Pergola
+|1891, Name: Gold Nugget
+|1892, Name: Gold Ore
+|1893, Name: Leather Seat
+|1894, Name: Leather Couch
+|1895, Name: Guest House Deed
+|1896, Name: Guest House 4 Level 2
+|1897, Name: Guest House Deed
+|1898, Name: Gum Mirror Stand
+|1899, Name: Mirror Stand
+|1900, Name: Palm Mirror Stand
+|1901, Name: Basin
+|1902, Name: Wrought Iron Table
+|1903, Name: Wrought Iron Chair
+|1904, Name: Creepy Cassette
+|1905, Name: Dreary Cassette
+|1906, Name: Experimental Cassette
+|1907, Name: Country Cassette
+|1908, Name: Shopping Cassette
+|1909, Name: Old Cassette
+|1910, Name: Golden Cassette
+|1911, Name: Chill Cassette
+|1912, Name: Smooth Cassette
+|1913, Name: Dinner Cassette
+|1914, Name: Ambient Cassette
+|1915, Name: Map Table
+|1916, Name: Wide Bookshelf
+|1917, Name: Dark Wooden Chest Of Drawers
+|1918, Name: Barbed Wire Fence
+|1919, Name: Board Fence
+|1920, Name: Road Lamp
+|1921, Name: Rope Bridge
+|1922, Name: Inflatable Pool
+|1923, Name: Bin Chook Statue
+|1924, Name: Gold Crown
+|1925, Name: Royal Crown
+|1926, Name: Mighty Sandwich
+|1927, Name: Mighty Sandwich Plate
+|1928, Name: Wide Rope Bridge
+|1929, Name: Doggo Bowl
+|1930, Name: Basalt
+|1931, Name: Animal Shower
+|1932, Name: Black Raglan Sleeve
+|1933, Name: Blue Raglan Sleeve
+|1934, Name: Green Raglan Sleeve
+|1935, Name: Orange Raglan Sleeve
+|1936, Name: Pink Raglan Sleeve
+|1937, Name: Purple Raglan Sleeve
+|1938, Name: Red Raglan Sleeve
+|1939, Name: Yellow Raglan Sleeve
+|1940, Name: Black Capri Pants
+|1941, Name: Blue Capri Pants
+|1942, Name: Green Capri Pants
+|1943, Name: Orange Capri Pants
+|1944, Name: Pink Capri Pants
+|1945, Name: Purple Capri Pants
+|1946, Name: Red Capri Pants
+|1947, Name: Yellow Capri Pants
+|1948, Name: Medieval Helmet
+|1949, Name: Medieval Breastplate
+|1950, Name: Medieval Leggings
+|1951, Name: Medieval Boots
+|1952, Name: Gold Bar
+|1953, Name: Battle Fish
+|1954, Name: Battlegrounds Hat
+|1955, Name: Battlegrounds Shirt
+|1956, Name: Battlegrounds Pants
+|1957, Name: Battlegrounds Shoes
+|1958, Name: Macquarie Perch
+|1959, Name: Spotted Handfish
+|1960, Name: Lungfish
+|1961, Name: Bone Shirt
+|1962, Name: Bone Pants
+|1963, Name: Bone Shoes
+|1964, Name: Hoop Earrings
+|1965, Name: Nose Ring
+|1966, Name: Nose Bandage
+|1967, Name: Ruby Earrings
+|1968, Name: Emerald Earrings
+|1969, Name: Aquamarine Earrings
+|1970, Name: Mystery Bag
+|1971, Name: Paper Hat
+|1972, Name: Blistering Bottlew
+|1973, Name: Opal Earrings
+|1974, Name: Leather Bench
+|1975, Name: Pearl Earrings
+|1976, Name: Glowing Mushroom Pot
+|1977, Name: Giant Bat Wings
+|1978, Name: Glowing Hang Glider
+|1979, Name: Giant Feather Wings
+|1980, Name: Bone Mask
+|1981, Name: Floor Candelabra
+|1982, Name: Fiery Halo
+|1983, Name: Die
+|1984, Name: Glowing Slab
+|1985, Name: Face Bandage
+|1986, Name: Glowing Box
+|1987, Name: Glowing Path
+|1988, Name: Glowing Pickaxe
+|1989, Name: Glowing Axe
+|1990, Name: Wind Chime
+|1991, Name: Glowing Dress
+|1992, Name: Blue Coat
+|1993, Name: Orange Coat
+|1994, Name: Orange Ripped Jeans
+|1995, Name: Green Holiday Hat
+|1996, Name: Orange Holiday Hat
+|1997, Name: Pink Holiday Hat
+|1998, Name: Purple Holiday Hat
+|1999, Name: Glowing Coat
+|2000, Name: Red Slip Dress
+|2001, Name: Retro Sweater
+|2002, Name: Glowing Glasses
+|2003, Name: Wooden Swing Set
+|2004, Name: Green Slip Dress
+|2005, Name: Yellow Slip Dress
+|2006, Name: Hanging Planter
+|2007, Name: Native Bread
+|2008, Name: Earth Worms
+|2009, Name: Railway Track
+|2010, Name: Curved Railway Track
+|2011, Name: Train
+|2012, Name: Railway Bridge
+|2013, Name: Train Car
+|2014, Name: Domesti-Crate
+|2015, Name: Auto Placer
+|2016, Name: Pretty Pebble
+|2017, Name: Egg Incubator
+|2018, Name: Duff Dust
+|2019, Name: Fertilised Chicken Egg
+|2020, Name: Conductor Shirt
+|2021, Name: Conductor Pants
+|2022, Name: Conductor Cap
+|2023, Name: Pineapple Jam
+|2024, Name: Pineapple Jam Set
+|2025, Name: Critter Book
+|2026, Name: Matching Steps
+|2027, Name: Servo
+|2028, Name: Penguin Plush
+|2029, Name: Smooth Black Path
+|2030, Name: Smooth Blue Path
+|2031, Name: Smooth Green Path
+|2032, Name: Smooth Orange Path
+|2033, Name: Smooth Pink Path
+|2034, Name: Smooth Purple Path
+|2035, Name: Smooth Red Path
+|2036, Name: Smooth White Path
+|2037, Name: Smooth Yellow Path
+|2038, Name: Cork Hat
+|2039, Name: Loop Fence
+|2040, Name: Bright Gravel Pathway
+|2041, Name: Pleep Plush
+|2042, Name: Disguise Glasses
+|2043, Name: Oval Sunnies
+|2044, Name: Cat Ears
+|2045, Name: Vine Pergola
+|2046, Name: Marble Pergola
+|2047, Name: Bin Chook Plush
+|2048, Name: Pencil Cup
+|2049, Name: Chopping Board
+|2050, Name: Toy Ute
+|2051, Name: Votive Candle
+|2052, Name: White Cushion Stack
+|2053, Name: Blue Cushion Stack
+|2054, Name: Red Cushion Stack
+|2055, Name: Switch Railway Track
+|2056, Name: Old Bowser
+|2057, Name: Green Sleeveless Dress
+|2058, Name: Dark Cottage Shoes
+|2059, Name: White Sleeveless Dress
+|2060, Name: Brown Cottage Shoes
+|2061, Name: Red Bow Dress
+|2062, Name: Yellow Item Sign
+|2063, Name: Blue Sign
+|2064, Name: White Sign
+|2065, Name: Yellow Bow Dress
+|2066, Name: Pink Petal Dress
+|2067, Name: Green Petal Dress
+|2068, Name: Purple Petal Dress
+|2069, Name: Arch Fence
+|2070, Name: Wheelie Bin
+|2071, Name: Blue Carpet Path
+|2072, Name: Blue Belt Fence
+|2073, Name: Fairy Light Pergola
+|2074, Name: Fish Berley Box
+|2075, Name: Boaricoot Whistle
+|2076, Name: Sport Helmet
+|2077, Name: Improved Stone Grinder
+|2078, Name: Yellow Single Person Tent
+|2079, Name: Blue Single Person Tent
+|2080, Name: Green Single Person Tent
+|2081, Name: Tyre Planter
+|2082, Name: Tyre Bench
+|2083, Name: White Brick Path
+|2084, Name: Black Pastel Floor
+|2085, Name: Blue Pastel Floor
+|2086, Name: Brown Pastel Floor
+|2087, Name: Green Pastel Floor
+|2088, Name: Orange Pastel Floor
+|2089, Name: Pink Pastel Floor
+|2090, Name: Purple Pastel Floor
+|2091, Name: Red Pastel Floor
+|2092, Name: White Pastel Floor
+|2093, Name: Yellow Pastel Floor
+|2094, Name: White Brick Flower Bed
+|2095, Name: Black Cattleman Hat
+|2096, Name: White Cattleman Hat
+|2097, Name: Bowler Hat
+|2098, Name: Shovel of Pebbles
+|2099, Name: Magenta Pig Face
+|2100, Name: Saltbush Seed
+|2101, Name: Lighthouse
+|2102, Name: Spear Grass Seed
+|2103, Name: Pearl Bluebush Seed
+|2104, Name: Encyclopedia
+|2105, Name: Mallee Gumnut
+|2106, Name: Burger Pack
+|2107, Name: Jackaroo Pack
+|2108, Name: Crate Pack
+|2109, Name: Flame Jelly Pack
+|2110, Name: Boombox Pack
+|2111, Name: Messenger Pack
+|2112, Name: Guitar Pack
+|2113, Name: Bum Bag Pack
+|2114, Name: Hard Pack
+|2115, Name: Handbag Pack
+|2116, Name: Tote Pack
+|2117, Name: Hunter's Stool
+|2118, Name: Scooter
+|2119, Name: Secateurs
+|2120, Name: Black Pocket Watch
+|2121, Name: Hunter's Helmet
+|2122, Name: Alpha Plant Hammer
+|2123, Name: White Pig Face
+|2124, Name: Red Pig Face
+|2125, Name: Tome of Wounding
+|2126, Name: Airship Souvenir
+|2127, Name: Lighthouse Souvenir
+|2128, Name: Shark Statue Souvenir
+|2129, Name: Orb of Stars
+|2130, Name: Invisible Glider
+|2131, Name: Copy Pad
+|2132, Name: Auto Animal Trap
+|2133, Name: Alpha Battle Fish
+|2134, Name: Camera Pack
+|2135, Name: Medkit
+|
 # October 8, 2026 Update
 
 | Item Id | Item Description |
