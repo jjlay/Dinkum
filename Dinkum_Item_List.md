@@ -1,3 +1,5 @@
+# Base Game Items
+
 ID: 0, Name: Basic Axe
 ID: 1, Name: Megaphone
 ID: 2, Name: Bug Net
