@@ -2,9 +2,11 @@
 
 | Entry |
 |--|
-| [Base Game Items](#base-game-items)  |
-| [April 23, 2026 Update](#april-23-2026-update)  |
-| [October 8, 2026 Update](#october-8-2026-update)  |
+| [Base Game Items](#base-game-items)                  |
+| [June 26, 2025 Update](#june-26-2025-update)         |
+| [October 29, 2025 Update](#october-29-2025-update)   |
+| [April 23, 2026 Update](#april-23-2026-update)       |
+| [October 8, 2026 Update](#october-8-2026-update)     |
 
 
 # Base Game Items 
@@ -1972,6 +1974,12 @@
 | 1958 | Macquarie Perch |
 | 1959 | Spotted Handfish |
 | 1960 | Lungfish |
+
+
+# June 26, 2025 Update
+
+| Item Id | Item Description |
+|--|--|
 | 1961 | Bone Shirt |
 | 1962 | Bone Pants |
 | 1963 | Bone Shoes |
@@ -2018,6 +2026,11 @@
 | 2004 | Green Slip Dress |
 | 2005 | Yellow Slip Dress |
 | 2006 | Hanging Planter |
+
+# October 29, 2025 Update
+
+| Item Id | Item Description |
+|--|--|
 | 2007 | Native Bread |
 | 2008 | Earth Worms |
 | 2009 | Railway Track |
