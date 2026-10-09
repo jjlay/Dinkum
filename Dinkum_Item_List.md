@@ -1,19 +1,20 @@
 # Table of Contents
 
-| Entry |
-|--|
-| [Base Game Items](#base-game-items)                  |
-| [October 7, 2022 Update](#october-7-2022-update)     |
-| [December 8, 2022 Update](#december-8-2022-update)   |
-| [March 23, 2023 Update](#march-24-2023-update)       |
-| [October 18, 2024 Update](#october-18-2024-update)   |
-| [June 26, 2025 Update](#june-26-2025-update)         |
-| [October 29, 2025 Update](#october-29-2025-update)   |
-| [April 23, 2026 Update](#april-23-2026-update)       |
-| [October 8, 2026 Update](#october-8-2026-update)     |
+| Date | Release |
+|--|--|
+| [July 14, 2022 Release](#july-14-2022)               |  Initial release |
+| [October 7, 2022 Update](#october-7-2022-update)     | |
+| [December 8, 2022 Update](#december-8-2022-update)   | |
+| [March 23, 2023 Update](#march-24-2023-update)       | |
+| [October 18, 2024 Update](#october-18-2024-update)   | |
+| [April 23, 2025 Update](#april-23-2025-update)       | Version 1.0          |
+| [June 26, 2025 Update](#june-26-2025-update)         | Night Market Update  |
+| [October 29, 2025 Update](#october-29-2025-update)   | Animal Tracks Update |
+| [April 23, 2026 Update](#april-23-2026-update)       | Great Bite Update    |
+| [October 8, 2026 Update](#october-8-2026-update)     | |
 
 
-# Base Game Items 
+# July 14, 2022
 
 | Item Id | Item Description |
 |------|-----------|
