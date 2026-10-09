@@ -1,5 +1,7 @@
 ID: 0, Name: Basic Axe
+
 ID: 1, Name: Megaphone
+
 ID: 2, Name: Bug Net
 ID: 3, Name: Chainsaw
 ID: 4, Name: Fishing Rod
