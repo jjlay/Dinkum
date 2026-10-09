@@ -1,8 +1,10 @@
 # Table of Contents
 
-[Base Game Items](#base-game-items)
-[April 23, 2026 Update](#april-23-2026-update)
-[October 8, 2026 Update](#october-8-2026-update)
+| Entry |
+|--|
+| [Base Game Items](#base-game-items)  |
+| [April 23, 2026 Update](#april-23-2026-update)  |
+| [October 8, 2026 Update](#october-8-2026-update)  |
 
 
 # Base Game Items 
